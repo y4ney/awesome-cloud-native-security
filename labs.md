@@ -67,5 +67,3 @@
 
 - 🔗 链接：<https://github.com/raesene/kube_security_lab>
 - 💬 简介：使用 Docker、Kind 和 Ansible 创建的本地 K8S 环境，包含 14 个易受攻击的场景。
-
-## 
