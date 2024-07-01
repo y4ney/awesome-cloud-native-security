@@ -34,3 +34,35 @@
 
 - 🔗 链接：<https://github.com/NUS-Curiosity/KernJC>
 - 💬 简介：KernJC是Linux内核的漏洞复制工具。KernJC的目标是为Linux内核漏洞构建可重现的环境，其中真正的易受攻击的内核版本使用正确的内核配置编译，以使漏洞可用和可触发。
+
+## Kubernetes
+
+7. k8s lan party
+
+- 🔗 链接：<https://www.k8slanparty.com/>
+- 💬 简介：在线的需要注册的靶场，可以练习 Kubernetes 的错误配置和漏洞。
+
+8. eks cluster games
+
+- 🔗 链接：<https://eksclustergames.com/>
+- 💬 简介：在线的需要注册的靶场，可以练习 EKS 集群 的错误配置和安全问题。
+
+9. Bust a Kube
+
+- 🔗 链接：<https://www.bustakube.com/>
+- 💬 简介：下载有漏洞的 K8S 集群虚拟机，可以在 VMWare 中导入运行。
+
+10. kubernetes goat
+
+- 🔗 链接：<https://github.com/madhuakula/kubernetes-goat>
+- 💬 简介：可以在云账号（GKE、EKS、AKS）或者是 K3S中创建托管的有漏洞的 K8S 集群，还有一个指导手册。
+
+11. KubeCon NA 2019 CTF
+
+- 🔗 链接：<https://securekubernetes.com/>
+- 💬 简介：可以在 GCP 账户中创建的 CTF 靶场。包括2个攻击场景和2个防御场景。
+
+12. kube security lab
+
+- 🔗 链接：<https://github.com/raesene/kube_security_lab>
+- 💬 简介：使用 Docker、Kind 和 Ansible 创建的本地 K8S 环境，包含 14 个易受攻击的场景。
