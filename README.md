@@ -23,6 +23,7 @@
 - 🔍 [开源项目](./github-project.md)
 - 🌐 [公众号](./wechat-public-account.md)
 - 📚 [文章](./article.md)
+- 📑 [论文(1)](./papers.md)
 
 ## 0x02 如何使用
 
@@ -42,7 +43,7 @@
 
 - 🙋🏻‍♀️ ：我想转载
 
-    💁🏻‍♀️ ： 请注明来源：[https://github.com/y4ney/InfoCollect](https://github.com/y4ney/InfoCollect)
+    💁🏻‍♀️ ： 请注明来源：[https://github.com/y4ney/awesome-cloud-native-security](https://github.com/y4ney/awesome-cloud-native-security)
 
 ## 0x03 交流
 
