@@ -19,7 +19,7 @@
 
 ## 0x01 项目内容
 
-- 🏝 [靶场](./labs.md)
+- 🏝 [靶场（6）](./labs.md)
 - 🔍 [开源项目](./github-project.md)
 - 🌐 [公众号](./wechat-public-account.md)
 - 📚 [文章](./article.md)
@@ -55,3 +55,7 @@
 ## 0x05 Star曲线
 
 [![Stargazers over time](https://starchart.cc/y4ney/awesome-cloud-native-security.svg?variant=adaptive)](https://starchart.cc/y4ney/awesome-cloud-native-security)
+
+## 信息源
+
+- [Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs)
