@@ -66,7 +66,7 @@
 11. 如何设定切实可行的时间框架来修复安全漏洞
 
 - 📅 日期：2021-06-23
-- 🔗 链接：[How to Set Practical Time Frames to Remedy Security Vulnerabilities](hhttps://www.gartner.com/smarterwithgartner/how-to-set-practical-time-frames-to-remedy-security-vulnerabilities)
+- 🔗 链接：[How to Set Practical Time Frames to Remedy Security Vulnerabilities](https://www.gartner.com/smarterwithgartner/how-to-set-practical-time-frames-to-remedy-security-vulnerabilities)
 
 ## 2021-05
 
