@@ -24,7 +24,7 @@
 - 🌐 [公众号](./wechat-public-account.md)
 - 📜 [静态文档（18）](./static-document.md)
 - 📚 [动态文档（3）](./dynamic-document.md)
-- 📑 [离线文稿（10）](./papers/README.md)
+- 📑 [离线文稿（11）](./papers/README.md)
 - 🥸 [演示文稿（3）](./slides/README.md)
 - 📖 [书籍（3）](./books/README.md)
 
