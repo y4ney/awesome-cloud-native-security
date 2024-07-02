@@ -2,7 +2,7 @@
 
 ## 2024-04
 
-14. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+15. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
@@ -10,7 +10,7 @@
 
 ## 2023-09
 
-13. 解秘漏洞管理：独立工具与端点保护技术
+14. 解秘漏洞管理：独立工具与端点保护技术
 
 - 📅 日期：2023-03-24
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-03/Decoding%20Vulnerability%20Management-%20A%20Stand%20Alone%20Tool%20vs.%20a%20Technique%20in%20Endpoint%20Protection.pdf)
@@ -18,7 +18,7 @@
 
 ## 2023-04
 
-12. 如何实施基于风险的漏洞管理方法
+13. 如何实施基于风险的漏洞管理方法
 
 - 📅 日期：2023-04-20
 - 📑 文件：[How To Implement a Risk-Based Vulnerability Management Methodology](./2023-04/How%20To%20Implement%20a%20Risk-Based%20Vulnerability%20Management%20Methodology.pdf)
@@ -26,7 +26,7 @@
 
 ## 2023-03
 
-11. 云安全防护：有效的漏洞管理指南
+12. 云安全防护：有效的漏洞管理指南
 
 - 📅 日期：2023-09-14
 - 📑 文件：[Securing the Cloud:A Guide to Effective Vulnerability Management](./2023-09/securing-the-cloud-guide-to-effective-vulnerability-management.pdf)
@@ -34,7 +34,7 @@
 
 ## 2022-08
 
-10. Kubernetes 加固指南
+11. Kubernetes 加固指南
 
 - 📅 日期：2022-08-29
 - 📑 文件：[Kubernetes Hardening Guide](./2022-08/Kubernetes%20Hardening%20Guide.pdf)
@@ -42,7 +42,7 @@
 
 ## 2022-04
 
-9. 企业补丁管理规划指南：技术预防性维护
+10. 企业补丁管理规划指南：技术预防性维护
 
 - 📅 日期：2022-04-06
 - 📑 文件：[Guide to Enterprise Patch Management Planning:Preventive Maintenance for Technology](./2022-04/Guide%20to%20Enterprise%20Patch%20Management%20Planning：%20Preventive%20Maintenance%20for%20Technology.pdf)
@@ -50,7 +50,7 @@
 
 ## 2021-12
 
-8. 容器云中的安全挑战
+9. 容器云中的安全挑战
 
 - 📅 日期：2021-12-13
 - 📑 文件：[Security Challenges in the Container Cloud](./2021-12/Security%20Challenges%20in%20the%20Container%20Cloud.pdf)
@@ -58,11 +58,19 @@
 
 ## 2021-09
 
-7. 靶机实验：综合场景下的渗透实战
+8. 靶机实验：综合场景下的渗透实战
 
 - 📅 日期：2021-09-25
 - 📑 文件：[靶机实验：综合场景下的渗透实战](./2021-09/靶机实验：综合场景下的渗透实战.pdf)
 - 🔗 链接：<https://github.com/Metarget/cloud-native-security-book/blob/main/appendix/%E9%9D%B6%E6%9C%BA%E5%AE%9E%E9%AA%8C%EF%BC%9A%E7%BB%BC%E5%90%88%E5%9C%BA%E6%99%AF%E4%B8%8B%E7%9A%84%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98.pdf>
+
+## 2021-05
+
+7. 2021 Cortex Xpanse攻击表面威胁报告
+
+- 📅 日期：2021-05-10
+- 📑 文件：[2021 Cortex Xpanse Attack Surface Threat Report](./2021-05/2021%20Cortex%20Xpanse%20Attack%20Surface%20Threat%20Report.pdf)
+- 🔗 链接：<https://www.paloaltonetworks.com/resources/research/2021-attack-surface-threat-report>
 
 ## 2021-01
 
