@@ -2,13 +2,29 @@
 
 ## 2024-04
 
-11. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+13. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
 - 🔗 链接：<https://arxiv.org/abs/2404.11107>
 
 ## 2023-09
+
+12. 解秘漏洞管理：独立工具与端点保护技术
+
+- 📅 日期：2023-03-24
+- 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-03/Decoding%20Vulnerability%20Management-%20A%20Stand%20Alone%20Tool%20vs.%20a%20Technique%20in%20Endpoint%20Protection.pdf)
+- 🔗 链接：<https://emt.gartnerweb.com/ngw/globalassets/en/insights/top-insights/images/782165-decoding-vulnerability-management.pdf?_gl=1*vg5dl2*_gcl_au*MTg1NTE1NjAyOC4xNzE1MTMzMTUxLjExOTc0NTUxMTAuMTcxOTg4ODQ0Mi4xNzE5ODg4NDQx*_ga*ODkxMzMwOTcxLjE3MTUxMzMxNDc.*_ga_R1W5CE5FEV*MTcxOTg4ODM3Mi4yMC4xLjE3MTk4ODg0NDEuNTkuMC4w>
+
+## 2023-04
+
+11. 如何实施基于风险的漏洞管理方法
+
+- 📅 日期：2023-04-20
+- 📑 文件：[How To Implement a Risk-Based Vulnerability Management Methodology](./2023-04/How%20To%20Implement%20a%20Risk-Based%20Vulnerability%20Management%20Methodology.pdf)
+- 🔗 链接：<https://www.brinqa.com/resources/gartmer-how-to-implement-a-risk-based-vm-methodology/>
+
+## 2023-03
 
 10. 云安全防护：有效的漏洞管理指南
 
