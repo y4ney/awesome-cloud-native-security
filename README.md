@@ -20,11 +20,11 @@
 ## 0x01 项目内容
 
 - 🏝 [靶场（12）](./labs.md)
-- 🔍 [开源工具](./github-project.md)
+- 🔍 [开源工具(3)](./github-tools/README.md)
 - 🌐 [公众号](./wechat-public-account.md)
-- 📜 [静态文档（23）](./static-documents/README.md)
+- 📜 [静态文档（25）](./static-documents/README.md)
 - 📚 [动态文档（3）](./dynamic-document.md)
-- 📑 [离线文稿（14）](./papers/README.md)
+- 📑 [离线文稿（15）](./papers/README.md)
 - 🥸 [演示文稿（3）](./slides/README.md)
 - 📖 [书籍（3）](./books/README.md)
 
