@@ -4,6 +4,32 @@
 >
 > **一旦完成后内容基本不再变化的文档**。它们通常在首次创建和发布后不进行定期更新。
 
+## 2024-06
+
+23. 天翼云对象存储ZOS攻防
+
+- 📅 日期：2024-06-26
+- 🔗 链接：[天翼云对象存储ZOS攻防](https://zone.huoxian.cn/d/2916-zos)
+
+## 2024-05
+
+22. 实战-关于KEY泄露API接口利用
+
+- 📅 日期：2024-05-11
+- 🔗 链接：[实战-关于KEY泄露API接口利用](https://zone.huoxian.cn/d/2909-keyapi)
+
+## 2024-04
+
+21. 腾讯云对象存储COS（Cloud Object Storage）攻防
+
+- 📅 日期：2024-04-15
+- 🔗 链接：[腾讯云对象存储COS（Cloud Object Storage）攻防](https://zone.huoxian.cn/d/2903-coscloud-object-storage)
+
+20. 京东云OSS攻防
+
+- 📅 日期：2024-04-08
+- 🔗 链接：[京东云OSS攻防](https://zone.huoxian.cn/d/2901-oss)
+
 ## 2023-10
 
 19. MITRE 的 Container ATT&CK 攻防矩阵 v14.1-v15.1

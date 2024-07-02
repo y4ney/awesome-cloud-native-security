@@ -44,7 +44,7 @@
 
 9. 企业补丁管理规划指南：技术预防性维护
 
-- 📅 日期：2022-04
+- 📅 日期：2022-04-06
 - 📑 文件：[Guide to Enterprise Patch Management Planning:Preventive Maintenance for Technology](./2022-04/Guide%20to%20Enterprise%20Patch%20Management%20Planning：%20Preventive%20Maintenance%20for%20Technology.pdf)
 - 🔗 链接：<https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf>
 
