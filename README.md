@@ -22,9 +22,9 @@
 - 🛠️ [闭源工具（2）](./closed-source-tools/README.md)
 - 📚 [动态文档（4）](./dynamic-document/README.md)
 - 🏝 [靶场（12）](./labs/README.md)
-- 🔍 [开源工具(5)](./open-source-tools/README.md)
-- 📑 [论文报告（15）](./papers/README.md)
-- 🥸 [演示文稿（4）](./slides/README.md)
+- 🔍 [开源工具(6)](./open-source-tools/README.md)
+- 📑 [论文报告（16）](./papers/README.md)
+- 🥸 [演示文稿（9）](./slides/README.md)
 - 📜 [静态文档（25）](./static-documents/README.md)
 - 🌐 [公众号](./wechat-public-account.md)
 
