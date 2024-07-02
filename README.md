@@ -12,7 +12,6 @@
  <img src="https://img.shields.io/github/stars/y4ney/awesome-cloud-native-security" />
 </p>
 
-
 ## 0x00 特别鸣谢
 
 本项目受到 [Paper-Pen](https://github.com/Paper-Pen) 的 [GatherInfo](https://github.com/Paper-Pen/GatherInfo) 项目的启发，也希望大家多多支持 [Timeline Sec](https://github.com/TimelineSec) 💖
@@ -25,7 +24,7 @@
 - 🏝 [靶场（12）](./labs/README.md)
 - 🔍 [开源工具(5)](./open-source-tools/README.md)
 - 📑 [论文报告（15）](./papers/README.md)
-- 🥸 [演示文稿（3）](./slides/README.md)
+- 🥸 [演示文稿（4）](./slides/README.md)
 - 📜 [静态文档（25）](./static-documents/README.md)
 - 🌐 [公众号](./wechat-public-account.md)
 
