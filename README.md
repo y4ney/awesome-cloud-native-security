@@ -22,9 +22,9 @@
 - 🏝 [靶场（12）](./labs.md)
 - 🔍 [开源工具](./github-project.md)
 - 🌐 [公众号](./wechat-public-account.md)
-- 📜 [静态文档（18）](./static-document.md)
+- 📜 [静态文档（19）](./static-documents/README.md)
 - 📚 [动态文档（3）](./dynamic-document.md)
-- 📑 [离线文稿（11）](./papers/README.md)
+- 📑 [离线文稿（13）](./papers/README.md)
 - 🥸 [演示文稿（3）](./slides/README.md)
 - 📖 [书籍（3）](./books/README.md)
 
