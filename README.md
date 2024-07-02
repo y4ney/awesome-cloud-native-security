@@ -19,14 +19,15 @@
 
 ## 0x01 项目内容
 
-- 🏝 [靶场（12）](./labs.md)
-- 🔍 [开源工具(3)](./github-tools/README.md)
-- 🌐 [公众号](./wechat-public-account.md)
-- 📜 [静态文档（25）](./static-documents/README.md)
-- 📚 [动态文档（3）](./dynamic-document.md)
-- 📑 [离线文稿（15）](./papers/README.md)
-- 🥸 [演示文稿（3）](./slides/README.md)
 - 📖 [书籍（3）](./books/README.md)
+- 🛠️ [闭源工具（2）](./closed-source-tools/README.md)
+- 📚 [动态文档（4）](./dynamic-document/README.md)
+- 🏝 [靶场（12）](./labs/README.md)
+- 🔍 [开源工具(5)](./open-source-tools/README.md)
+- 📑 [论文报告（15）](./papers/README.md)
+- 🥸 [演示文稿（3）](./slides/README.md)
+- 📜 [静态文档（25）](./static-documents/README.md)
+- 🌐 [公众号](./wechat-public-account.md)
 
 ## 0x02 如何使用
 
