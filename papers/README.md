@@ -2,7 +2,7 @@
 
 ## 2024-04
 
-13. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+14. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
@@ -10,7 +10,7 @@
 
 ## 2023-09
 
-12. 解秘漏洞管理：独立工具与端点保护技术
+13. 解秘漏洞管理：独立工具与端点保护技术
 
 - 📅 日期：2023-03-24
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-03/Decoding%20Vulnerability%20Management-%20A%20Stand%20Alone%20Tool%20vs.%20a%20Technique%20in%20Endpoint%20Protection.pdf)
@@ -18,7 +18,7 @@
 
 ## 2023-04
 
-11. 如何实施基于风险的漏洞管理方法
+12. 如何实施基于风险的漏洞管理方法
 
 - 📅 日期：2023-04-20
 - 📑 文件：[How To Implement a Risk-Based Vulnerability Management Methodology](./2023-04/How%20To%20Implement%20a%20Risk-Based%20Vulnerability%20Management%20Methodology.pdf)
@@ -26,7 +26,7 @@
 
 ## 2023-03
 
-10. 云安全防护：有效的漏洞管理指南
+11. 云安全防护：有效的漏洞管理指南
 
 - 📅 日期：2023-09-14
 - 📑 文件：[Securing the Cloud:A Guide to Effective Vulnerability Management](./2023-09/securing-the-cloud-guide-to-effective-vulnerability-management.pdf)
@@ -34,11 +34,19 @@
 
 ## 2022-08
 
-9. Kubernetes 加固指南
+10. Kubernetes 加固指南
 
 - 📅 日期：2022-08-29
 - 📑 文件：[Kubernetes Hardening Guide](./2022-08/Kubernetes%20Hardening%20Guide.pdf)
 - 🔗 链接：<https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF>
+
+## 2022-04
+
+9. 企业补丁管理规划指南：技术预防性维护
+
+- 📅 日期：2022-04
+- 📑 文件：[Guide to Enterprise Patch Management Planning:Preventive Maintenance for Technology](./2022-04/Guide%20to%20Enterprise%20Patch%20Management%20Planning：%20Preventive%20Maintenance%20for%20Technology.pdf)
+- 🔗 链接：<https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf>
 
 ## 2021-12
 
