@@ -2,7 +2,7 @@
 
 ## 2024-04
 
-15. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+16. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
@@ -10,7 +10,7 @@
 
 ## 2023-09
 
-14. 解秘漏洞管理：独立工具与端点保护技术
+15. 解秘漏洞管理：独立工具与端点保护技术
 
 - 📅 日期：2023-03-24
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-03/Decoding%20Vulnerability%20Management-%20A%20Stand%20Alone%20Tool%20vs.%20a%20Technique%20in%20Endpoint%20Protection.pdf)
@@ -18,7 +18,7 @@
 
 ## 2023-04
 
-13. 如何实施基于风险的漏洞管理方法
+14. 如何实施基于风险的漏洞管理方法
 
 - 📅 日期：2023-04-20
 - 📑 文件：[How To Implement a Risk-Based Vulnerability Management Methodology](./2023-04/How%20To%20Implement%20a%20Risk-Based%20Vulnerability%20Management%20Methodology.pdf)
@@ -26,7 +26,7 @@
 
 ## 2023-03
 
-12. 云安全防护：有效的漏洞管理指南
+13. 云安全防护：有效的漏洞管理指南
 
 - 📅 日期：2023-09-14
 - 📑 文件：[Securing the Cloud:A Guide to Effective Vulnerability Management](./2023-09/securing-the-cloud-guide-to-effective-vulnerability-management.pdf)
@@ -34,11 +34,19 @@
 
 ## 2022-08
 
-11. Kubernetes 加固指南
+12. Kubernetes 加固指南
 
 - 📅 日期：2022-08-29
 - 📑 文件：[Kubernetes Hardening Guide](./2022-08/Kubernetes%20Hardening%20Guide.pdf)
 - 🔗 链接：<https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF>
+
+## 2022-05
+
+11. Kubernetes特权升级：流行平台中的过度权限
+
+- 📅 日期：2022-05-17
+- 📑 文件：[Kubernetes Privilege Escalation: Excessive Permissions in Popular Platforms](./2022-05/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms.pdf)
+- 🔗 链接：<https://www.paloaltonetworks.com/resources/whitepapers/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms>
 
 ## 2022-04
 
