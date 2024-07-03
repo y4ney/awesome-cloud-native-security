@@ -2,11 +2,19 @@
 
 ## 2021-10
 
-3. 云原生安全：攻防实践与体系构建
+4. 云原生安全：攻防实践与体系构建
 
 - 📅 日期：2021-10-01
 - 📑 在线阅读：[云原生安全：攻防实践与体系构建](https://yd.qq.com/web/reader/31c32c40727786b731c5111)
 - 🔗 链接：<https://github.com/Metarget/cloud-native-security-book>
+
+## 2021-06
+
+3. Kubernetes 安全：菜鸟到大佬的新手指南
+
+- 📅 日期：2021-06-01
+- 📑 文件：[Kubernetes security：Guide for beginners from zero to hero](./Kubernetes%20security：Guide%20for%20beginners%20from%20zero%20to%20hero.pdf)
+- 🔗 链接：<https://www.scribd.com/document/656477678/Kubernetes-security>
 
 ## 2020-04
 
