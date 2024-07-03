@@ -23,7 +23,7 @@
 - 📚 [动态文档（4）](./dynamic-document/README.md)
 - 🏝 [靶场（12）](./labs/README.md)
 - 🔍 [开源工具(7)](./open-source-tools/README.md)
-- 📑 [论文报告（16）](./papers/README.md)
+- 📑 [论文报告（25）](./papers/README.md)
 - 🥸 [演示文稿（9）](./slides/README.md)
 - 📜 [静态文档（25）](./static-documents/README.md)
 - 🌐 [公众号](./wechat-public-account.md)
@@ -50,13 +50,20 @@
 
 ## 0x03 交流
 
-本项目中所规整的都是本人平时学习云原生安全所收集的资料。如果你也有比较好用的工具或网站并且愿意分享，欢迎起来一起交流。整理不易，如觉得有帮助，可以给个star支持一下，多谢！
+我们是一群专注于云原生安全的铲屎官 🐈🐈。
 
-## 0x04 更新说明
+关注公众号：“喵苗安全”，加入我们 🎉🎉
 
-常渗透，常更新
+若有任何问题，请联系我们的小猫咪客服 🐱🐱
 
-## 0x05 Star曲线
+![鱼头](./images/YuTou.png)
+
+
+如果你也有比较好用的工具或网站并且愿意分享，欢迎起来一起交流。
+
+整理不易，如觉得有帮助，可以给个star支持一下，多谢！
+
+## 0x04 Star曲线
 
 [![Stargazers over time](https://starchart.cc/y4ney/awesome-cloud-native-security.svg?variant=adaptive)](https://starchart.cc/y4ney/awesome-cloud-native-security)
 
