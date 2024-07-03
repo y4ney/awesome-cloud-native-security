@@ -18,11 +18,11 @@
 
 ## 0x01 项目内容
 
-- 📖 [书籍（3）](./books/README.md)
+- 📖 [书籍（4）](./books/README.md)
 - 🛠️ [闭源工具（2）](./closed-source-tools/README.md)
 - 📚 [动态文档（4）](./dynamic-document/README.md)
 - 🏝 [靶场（12）](./labs/README.md)
-- 🔍 [开源工具(6)](./open-source-tools/README.md)
+- 🔍 [开源工具(7)](./open-source-tools/README.md)
 - 📑 [论文报告（16）](./papers/README.md)
 - 🥸 [演示文稿（9）](./slides/README.md)
 - 📜 [静态文档（25）](./static-documents/README.md)

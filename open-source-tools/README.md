@@ -1,6 +1,6 @@
 # 开源工具
 
-7. Sea Moon ：
+7. Sea Moon
 
 - 🔗 链接：<https://github.com/DVKunion/SeaMoon>
 - 💬 简介：月海基于 Serverless 的动态与无状态的特性，从网络层实现了一个基于 Serverless 的网络工具集，包括代理、转发、隧道等等常见网络功能； 同时在客户端集成了大量云厂商，实现快捷的一键式部署和跨厂商与平台操作。

@@ -13,7 +13,7 @@
 8. Kubernetes特权升级：容器逃逸==集群管理员？
 
 - 📅 日期：2022-11-29
-- 📑 文件：[Kubernetes Privilege Escalation: Container Escape == Cluster Admin?](./Kubernetes%20Privilege%20Escalation-%20Container%20Escape%20==%20Cluster%20Admin?.pdf)
+- 📑 文件：[Kubernetes Privilege Escalation: Container Escape == Cluster Admin?](./Kubernetes%20Privilege%20Escalation:%20Container%20Escape%20equal%20to%20Cluster%20Admin.pdf)
 - 🔗 在线观看：<https://www.youtube.com/watch?v=oc1tq_r6VNM>
 
 
