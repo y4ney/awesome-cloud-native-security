@@ -1,5 +1,10 @@
 # 开源工具
 
+8. kubernetes-rbac-audit
+
+- 🔗 链接：<https://github.com/cyberark/kubernetes-rbac-audit>
+- 💬 简介：可以扫描Kubernetes RBAC以寻找有风险的角色的 Python 工具。
+
 7. Sea Moon
 
 - 🔗 链接：<https://github.com/DVKunion/SeaMoon>
