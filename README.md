@@ -20,12 +20,12 @@
 
 - 📖 [书籍（4）](./books/README.md)
 - 🛠️ [闭源工具（2）](./closed-source-tools/README.md)
-- 📚 [动态文档（4）](./dynamic-document/README.md)
+- 📚 [文库博客（5）](./dynamic-document/README.md)
 - 🏝 [靶场（12）](./labs/README.md)
-- 🔍 [开源工具(7)](./open-source-tools/README.md)
-- 📑 [论文报告（25）](./papers/README.md)
+- 🔍 [开源工具(8)](./open-source-tools/README.md)
+- 📑 [论文报告（27）](./papers/README.md)
 - 🥸 [演示文稿（9）](./slides/README.md)
-- 📜 [静态文档（25）](./static-documents/README.md)
+- 📜 [静态文档（28）](./static-documents/README.md)
 - 🌐 [公众号](./wechat-public-account.md)
 
 ## 0x02 如何使用
