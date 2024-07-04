@@ -4,45 +4,66 @@
 >
 > **一旦完成后内容基本不再变化的文档**。它们通常在首次创建和发布后不进行定期更新。
 
+## 2024-07
+
+28. 启动您的Kubernetes安全
+
+- 📅 日期：2024-07-02
+- 🔗 链接：[Kickstart Your Kubernetes Security](https://cloudnativenow.com/social-facebook/kickstart-your-kubernetes-security/)
+
 ## 2024-06
 
-25. 天翼云对象存储ZOS攻防
+27. 天翼云对象存储ZOS攻防
 
 - 📅 日期：2024-06-26
 - 🔗 链接：[天翼云对象存储ZOS攻防](https://zone.huoxian.cn/d/2916-zos)
 
 ## 2024-05
 
-24. 实战-关于KEY泄露API接口利用
+26. 实战-关于KEY泄露API接口利用
 
 - 📅 日期：2024-05-11
 - 🔗 链接：[实战-关于KEY泄露API接口利用](https://zone.huoxian.cn/d/2909-keyapi)
 
 ## 2024-04
 
-23. 腾讯云对象存储COS（Cloud Object Storage）攻防
+25. 腾讯云对象存储COS（Cloud Object Storage）攻防
 
 - 📅 日期：2024-04-15
 - 🔗 链接：[腾讯云对象存储COS（Cloud Object Storage）攻防](https://zone.huoxian.cn/d/2903-coscloud-object-storage)
 
-22. 京东云OSS攻防
+24. 京东云OSS攻防
 
 - 📅 日期：2024-04-08
 - 🔗 链接：[京东云OSS攻防](https://zone.huoxian.cn/d/2901-oss)
 
+## 2023-11
+
+23. 针对新手的Rego介绍
+
+- 📅 日期：2023-11-03
+- 🔗 链接：[Rego for beginners: Introduction to Rego](https://medium.com/@snyksec/rego-for-beginners-introduction-to-rego-0d293d52a654)
+
 ## 2023-10
 
-21. MITRE 的 Container ATT&CK 攻防矩阵 v14.1-v15.1
+22. MITRE 的 Container ATT&CK 攻防矩阵 v14.1-v15.1
 
 - 📅 日期：2023-10-31～至今
 - 🔗 链接：[MITRE 的 Container ATT&CK 攻防矩阵 v14.1-v15.1](https://attack.mitre.org/matrices/enterprise/containers/)
 
 ## 2023-04
 
-20. MITRE 的 Container ATT&CK 攻防矩阵 v13.1
+21. MITRE 的 Container ATT&CK 攻防矩阵 v13.1
 
 - 📅 日期：2023-04-25
 - 🔗 链接：[MITRE 的 Container ATT&CK 攻防矩阵 v13.1](https://attack.mitre.org/versions/v13/matrices/enterprise/containers/)
+
+## 2022-09
+
+20. NSA 需要强大的 Kubernetes 身份验证和授权
+
+- 📅 日期：2022-09-12
+- 🔗 链接：[NSA Wants Strong Kubernetes Authentication and Authorization](https://cloudnativenow.com/features/nsa-wants-strong-kubernetes-authentication-and-authorization/)
 
 ## 2022-10
 
@@ -58,7 +79,6 @@
 - 📅 日期：2022-10-25
 - 🔗 链接：[攻击者能够迅速利用著名的零日漏洞：2022年Unit 42事件响应报告见解](https://unit42.paloaltonetworks.com/incident-response-report/)
 
-
 ## 2022-04
 
 17. MITRE 的 Container ATT&CK 攻防矩阵 v11.3
@@ -72,7 +92,6 @@
 
 - 📅 日期：2021-11-01
 - 🔗 链接：[云原生安全：基于容器ATT&CK矩阵模拟攻防对抗的思考](https://www.freebuf.com/articles/security-management/303010.html)
-
 
 ## 2021-10
 
@@ -148,7 +167,6 @@
 
 - 📅 日期：2020-06-20
 - 🔗 链接：[云原生环境渗透相关工具考察](https://blog.wohin.me/posts/cloud-native-pentest-tools/)
-
 
 4. 阿里云的云上容器 ATT&CK 攻防矩阵
 
