@@ -1,8 +1,14 @@
-# 论文
+# 论文报告
 
 ## 2024-07
 
-25. 云安全责任共担模型2024
+27. 2024年中国网络安全市场全景图
+
+- 📅 日期：2024-07-04
+- 📑 文件：[2024年中国网络安全市场全景图](./2024-07/2024年中国网络安全市场全景图.pdf)
+- 🔗 链接：<https://www.secrss.com/articles/67755>
+
+26. 云安全责任共担模型2024
 
 - 📅 日期：2024-07-03
 - 📑 文件：[云安全责任共担模型2024](./2024-07/云安全责任共担模型2024.pdf)
@@ -10,7 +16,7 @@
 
 ## 2024-04
 
-24. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+25. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
@@ -18,11 +24,19 @@
 
 ## 2023-09
 
-23. 解秘漏洞管理：独立工具与端点保护技术
+24. 解秘漏洞管理：独立工具与端点保护技术
 
 - 📅 日期：2023-03-24
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-03/Decoding%20Vulnerability%20Management-%20A%20Stand%20Alone%20Tool%20vs.%20a%20Technique%20in%20Endpoint%20Protection.pdf)
 - 🔗 链接：<https://emt.gartnerweb.com/ngw/globalassets/en/insights/top-insights/images/782165-decoding-vulnerability-management.pdf?_gl=1*vg5dl2*_gcl_au*MTg1NTE1NjAyOC4xNzE1MTMzMTUxLjExOTc0NTUxMTAuMTcxOTg4ODQ0Mi4xNzE5ODg4NDQx*_ga*ODkxMzMwOTcxLjE3MTUxMzMxNDc.*_ga_R1W5CE5FEV*MTcxOTg4ODM3Mi4yMC4xLjE3MTk4ODg0NDEuNTkuMC4w>
+
+## 2023-07
+
+23. 信通院《云原生安全配置基线规范》
+
+- 📅 日期：2023-07-28
+- 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-07/云原生安全配置基线规范-终稿V4.pdf)
+- 🔗 链接：<https://www.secrss.com/articles/57210>
 
 ## 2023-06
 
