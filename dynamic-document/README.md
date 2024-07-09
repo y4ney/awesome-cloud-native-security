@@ -4,6 +4,11 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+6. DataDog  Security Lab（DataDog安全研究博客）
+   
+- 🔗 链接：<https://securitylabs.datadoghq.com/articles/>
+- 💬 简介：DataDog安全实验室是DataDog公司研究人员和工程师发布以云服务相关创新安全内容的地方。在这里，您可以找到威胁研究、开源软件的帖子。可以订阅 RSS 源或使用 Feedly 链接。
+
 5. cloudnativenow-cloud native security
 
 - 🔗 链接：<https://cloudnativenow.com/category/topics/cloudnativesecurity/>
