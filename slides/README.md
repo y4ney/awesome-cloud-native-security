@@ -2,6 +2,13 @@
 
 ## 2024-06
 
+10. 作为新手如何开展AWS安全研究  
+- 📅 日期：2024-06-17
+- 📑 标题：Get into AWS security research as a n00bcake
+- 💬 简介：想要进入 AWS 安全研究，但不知道从哪里开始？这个演讲就是为你准备的
+- 🔗 在线观看：<https://www.youtube.com/watch?v=jEFGzLbG1r4&list=PLCPCP1pNWD7PoUaDtU_T9XJSJ6d7cSfjl&index=40>
+
+
 9. 云服务常见漏洞分享
 
 - 📅 日期：2024-06-21
