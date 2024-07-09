@@ -27,7 +27,7 @@
 25. 容器编排蜜罐: 观察在野攻击
     
 - 📅 日期：2023-10-16
-- 📑 文件：[Container Orchestration Honeypot: Observing Attacks in the Wild](test)
+- 📑 文件：[Container Orchestration Honeypot: Observing Attacks in the Wild](./2023-10/Container_Orchestration_Honeypot_Observing_Attacks_in_the_Wild.pdf)
 - 🔗 链接：<https://dl.acm.org/doi/pdf/10.1145/3607199.3607205>
 
 ## 2023-09
