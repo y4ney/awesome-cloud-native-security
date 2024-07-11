@@ -6,68 +6,78 @@
 
 ## 2024-07
 
-31. 启动您的Kubernetes安全
+33. 启动您的Kubernetes安全
 
 - 📅 日期：2024-07-02
 - 🔗 链接：[Kickstart Your Kubernetes Security](https://cloudnativenow.com/social-facebook/kickstart-your-kubernetes-security/)
 
 ## 2024-06
 
-30. 天翼云对象存储ZOS攻防
+32. K8s日志指南
+
+- 📅 日期：2024-06-01  
+- 🔗 链接：[A Guide To Kubernetes Logs That Isn't A Vendor Pitch](https://grahamhelton.com/blog/k8slogs/)
+
+31. 天翼云对象存储ZOS攻防
 
 - 📅 日期：2024-06-26
 - 🔗 链接：[天翼云对象存储ZOS攻防](https://zone.huoxian.cn/d/2916-zos)
 
-29. 攻击者针对暴露的Docker API利用新技巧
+30. 攻击者针对暴露的Docker API利用新技巧
 
 - 📅 日期：2024-06-13
 - 🔗 链接：[Attackers deploying new tactics in campaign targeting exposed Docker APIs](https://securitylabs.datadoghq.com/articles/attackers-deploying-new-tactics-in-campaign-targeting-exposed-docker-apis/)
 
 ## 2024-05
 
-28. 实战-关于KEY泄露API接口利用
+29. 实战-关于KEY泄露API接口利用
 
 - 📅 日期：2024-05-11
 - 🔗 链接：[实战-关于KEY泄露API接口利用](https://zone.huoxian.cn/d/2909-keyapi)
 
 ## 2024-04
 
-27. 腾讯云对象存储COS（Cloud Object Storage）攻防
+28. 腾讯云对象存储COS（Cloud Object Storage）攻防
 
 - 📅 日期：2024-04-15
 - 🔗 链接：[腾讯云对象存储COS（Cloud Object Storage）攻防](https://zone.huoxian.cn/d/2903-coscloud-object-storage)
 
-26. 京东云OSS攻防
+27. 京东云OSS攻防
 
 - 📅 日期：2024-04-08
 - 🔗 链接：[京东云OSS攻防](https://zone.huoxian.cn/d/2901-oss)
 
 ## 2024-02
 
-25. TeamTNT攻击组织分析
+26. TeamTNT攻击组织分析
 - 📅 日期：2024-02-01
 - 🔗 链接：[An analysis of a TeamTNT doppelgänger](https://securitylabs.datadoghq.com/articles/analysis-of-teamtnt-doppelganger/)
 
 ## 2023-11
 
-24. 针对新手的Rego介绍
+25. 针对新手的Rego介绍
 
 - 📅 日期：2023-11-03
 - 🔗 链接：[Rego for beginners: Introduction to Rego](https://medium.com/@snyksec/rego-for-beginners-introduction-to-rego-0d293d52a654)
 
 ## 2023-10
 
-23. MITRE 的 Container ATT&CK 攻防矩阵 v14.1-v15.1
+24. MITRE 的 Container ATT&CK 攻防矩阵 v14.1-v15.1
 
 - 📅 日期：2023-10-31～至今
 - 🔗 链接：[MITRE 的 Container ATT&CK 攻防矩阵 v14.1-v15.1](https://attack.mitre.org/matrices/enterprise/containers/)
 
 ## 2023-04
 
-22. MITRE 的 Container ATT&CK 攻防矩阵 v13.1
+23. MITRE 的 Container ATT&CK 攻防矩阵 v13.1
 
 - 📅 日期：2023-04-25
 - 🔗 链接：[MITRE 的 Container ATT&CK 攻防矩阵 v13.1](https://attack.mitre.org/versions/v13/matrices/enterprise/containers/)
+
+22. 容器镜像的妙用——绕过漏洞扫描程序
+
+- 📅 日期：2023-04-22
+- 🔗 链接：[Fun with container images - Bypassing vulnerability scanners](https://raesene.github.io/blog/2023/04/22/Fun-with-container-images-Bypassing-vulnerability-scanners/)
 
 ## 2022-09
 
