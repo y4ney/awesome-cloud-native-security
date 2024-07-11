@@ -1,5 +1,20 @@
 # 书籍
 
+## 2023-03
+
+6. Learning eBPF
+- 📅 日期：2023-03-07
+- 📑 在线阅读：[Learning eBPF](https://cilium.isovalent.com/hubfs/Learning-eBPF%20-%20Full%20book.pdf)
+- 📑 文件：[Learning eBPF](./Learning-eBPF%20-%20Full%20book.pdf)
+- 🔗 链接：<https://www.oreilly.com/library/view/learning-ebpf/9781098135119/>
+
+## 2022-04
+
+5. 使用eBPF进行安全可观测性
+- 📅 日期：2022-04-05
+- 📑 文件：[Security Observability with eBPF(Measuring Cloud Native SecurityThrough eBPF Observability)](./Security-Observability-with-eBPF-OReilly-report.pdf)
+- 🔗 链接：<https://www.oreilly.com/library/view/security-observability-with/9781492096719/>
+
 ## 2021-10
 
 4. 云原生安全：攻防实践与体系构建
@@ -21,7 +36,8 @@
 2. 容器安全：保护容器化应用程序的基本技术概念
 
 - 📅 日期：2020-04-01
-- 📑 文件：[Container Security Fundamental Technology Concepts that Protect Containerized Applications](./Container%20Security%20Fundamental%20Technology%20Concepts%20that%20Protect%20Containerized%20Applications%20(Liz%20Rice).epub)
+- 📑 文件(epub)：[Container Security Fundamental Technology Concepts that Protect Containerized Applications](./Container%20Security%20Fundamental%20Technology%20Concepts%20that%20Protect%20Containerized%20Applications%20(Liz%20Rice).epub)
+- 📑 文件(pdf)：[Container Security Fundamental Technology Concepts that Protect Containerized Applications](./container-security-fundamental-technology-concepts-that-protect-containerized-applications.pdf)
 - 🔗 链接：<https://www.amazon.com/Container-Security-Fundamental-Containerized-Applications/dp/1492056707>
 
 ## 2018-09
