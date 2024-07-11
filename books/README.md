@@ -12,7 +12,7 @@
 
 5. 使用eBPF进行安全可观测性
 - 📅 日期：2022-04-05
-- 📑 文件：[Security Observability with eBPF(Measuring Cloud Native SecurityThrough eBPF Observability)](./Security_Observability_ with_eBPF_OReilly_report.pdf)
+- 📑 文件：[Security Observability with eBPF(Measuring Cloud Native SecurityThrough eBPF Observability)](./Security-Observability-with-eBPF-OReilly-report.pdf)
 - 🔗 链接：<https://www.oreilly.com/library/view/security-observability-with/9781492096719/>
 
 ## 2021-10
