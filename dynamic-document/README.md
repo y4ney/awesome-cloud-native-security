@@ -4,6 +4,11 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+7. Wiz安全专题的博客页面
+
+- 🔗 链接：<https://www.wiz.io/blog/tag/security>
+- 💬 简介：Wiz是一个专注于云安全的公司，提供云和容器安全解决方案。包括Wiz安全研究团队发现的漏洞和安全风险，以及安全实践。
+
 6. DataDog  Security Lab（DataDog安全研究博客）
    
 - 🔗 链接：<https://securitylabs.datadoghq.com/articles/>
