@@ -7,7 +7,7 @@
 8. raesene安全研究员的博客K8s专题
 
 - 🔗 链接：<https://raesene.github.io/categories/index.html#Kubernetes-ref>
-- 💬 简介：raesene 是一个专注于做云原生安全教育的人，学习云原生安全可以follow他的github、推特油管、博客等。[靶场界面](../../labs/README.md)的k8s-security-lab就是他做的：<https://github.com/raesene/kube_security_lab>
+- 💬 简介：raesene 是一个专注于做云原生安全教育的人，学习云原生安全可以follow他的github、推特油管、博客等。[靶场界面](../labs/README.md)的k8s-security-lab就是他做的：<https://github.com/raesene/kube_security_lab>
 
 7. Wiz安全专题的博客页面
 
