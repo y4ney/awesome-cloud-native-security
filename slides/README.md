@@ -2,18 +2,27 @@
 
 ## 2024-06
 
-10. 作为新手如何开展AWS安全研究  
+11. 作为新手如何开展AWS安全研究  
 - 📅 日期：2024-06-17
 - 📑 标题：Get into AWS security research as a n00bcake
 - 💬 简介：想要进入 AWS 安全研究，但不知道从哪里开始？这个演讲就是为你准备的
 - 🔗 在线观看：<https://www.youtube.com/watch?v=jEFGzLbG1r4&list=PLCPCP1pNWD7PoUaDtU_T9XJSJ6d7cSfjl&index=40>
 
 
-9. 云服务常见漏洞分享
+10. 云服务常见漏洞分享
 
 - 📅 日期：2024-06-21
 - 📑 文件：[云服务常见漏洞分享](./4-云服务常见漏洞分享.pdf)
 - 🔗 在线观看：<https://bytedance.larkoffice.com/file/X29Zbl80LoOE7uxSq8RcV8Zwnmd>
+
+## 2024-03
+
+9. 用这5个简单的技巧让黑客远离你的Kubernetes集群
+
+- 📅 日期：2024-03-22
+- 💬 博客：Keep Hackers Out of Your Cluster with These 5 Simple Tricks: <https://tldrsec.com/p/kubernetes-security-threat-informed-defense>
+- 📑 文件：[Keep Hackers Out of Your Cluster with These 5 Simple Tricks](https://docs.google.com/presentation/d/1FDzzxo7U_890_nHZyNK9L3XNisqao5aVyJrqI1ntgmE/edit#slide=id.g2c3c3dab940_0_481)
+- 🔗 在线观看：<https://www.youtube.com/watch?v=UZz44j8bszU>
 
 ## 2022-11
 
