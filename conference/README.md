@@ -6,6 +6,15 @@
 
 ## 2024-06
 
+2. **CloudNativeSecurityCon 2024**
+
+- 📅 日期：2024-06-26；2024-06-27 | Seattle, WA
+- 💬 简介：6.26-27在华盛顿州西雅图举办的CNCF云原生安全大会 2024，该会议汇聚了安全专家、开发者及行业领袖，共同探讨云原生安全的最新趋势与进展。提供了云原生安全的主题演讲、分组会议以及交流机会。
+- 🔗 官网链接：[CloudNativeSecurityCon 2024](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/)
+- ⏲️ 会议议程：https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/
+- 🔗 会议视频记录：[youtube watch——CloudNativeSecurityCon North America 2024](https://www.youtube.com/watch?v=DgYJHKblLbE&list=PLj6h78yzYM2MSAFvjG22ZynvaUs1nnaQJ&pp=iAQB)
+- 🔗 CNCF 的 YouTube 频道: https://www.youtube.com/@cncf
+
 1. **fwd:cloudsec 2024**
 
 - 📅 日期：2024-06-17; 2024-09-17
