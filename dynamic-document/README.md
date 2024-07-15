@@ -4,6 +4,11 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+8. raesene安全研究员的博客K8s专题
+
+- 🔗 链接：<https://raesene.github.io/categories/index.html#Kubernetes-ref>
+- 💬 简介：raesene 是一个专注于做云原生安全教育的人，学习云原生安全可以follow他的github、推特、油管等。[靶场界面的k8s-security-lab](../../labs/README.md)就是他做的<https://github.com/raesene/kube_security_lab>
+
 7. Wiz安全专题的博客页面
 
 - 🔗 链接：<https://www.wiz.io/blog/tag/security>
