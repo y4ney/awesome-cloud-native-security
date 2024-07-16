@@ -24,12 +24,14 @@
 - 📑 文件：<https://github.com/SpecterOps/presentations/tree/main/SO-CON%202024/Jeremy%20Fox%20-%20KubeHound%20and%20Beyond>
 - 🔗 在线观看：<https://youtu.be/pdCcJ-Kenf8?si=JyFUtRfJfFU2cDAP>
 
+
 10. Apeman项目：绘制AWS身份攻击路径
 - 📅 日期：2024-03-11
 - 💬 标题：Project Apeman: Mapping AWS Identity Attack Paths - Daniel Heinsen [SO-CON 2024](https://youtube.com/playlist?list=PLJK0fZNGiFU_Zh8PkjCws_Rw_8WdWKyd7&si=41KaKcoldSzIrhMn)
 - 📃 简介：这是Daniel Heinsen在[SO-CON 2024](https://specterops.io/so-con/)会上的一篇演讲。在不断发展的云安全格局中，自动发现身份攻击路径已成为缓解网络威胁的关键策略。本次演讲深入探讨了AWS生态系统中的"Tier 0"安全概念，并介绍了Apeman，这是一种新的原型工具，旨在映射和可视化AWS身份攻击路径。讨论还将深入探讨Apeman开发过程中遇到的挑战。
 - 📑 文件：<https://github.com/SpecterOps/presentations/tree/main/SO-CON%202024/Daniel%20Heinsen%20-%20Project%20Apeman>
 - 🔗 在线观看：<https://youtu.be/Gs5BZplrxe4?si=anDhx4cXyukgSEgJ>
+
 
 9. 用这5个简单的技巧让黑客远离你的Kubernetes集群
 
