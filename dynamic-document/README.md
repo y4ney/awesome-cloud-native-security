@@ -4,6 +4,11 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+9. Wiz云威胁全景(云威胁情报数据库)
+
+- 🔗 链接：<https://threats.wiz.io/>
+- 💬 简介：Cloud Threat Landscape包含云安全事件、威胁因素、工具和技术的综合威胁情报数据库，由 Wiz Research 提供支持。其中包括云安全事件、威胁因素、攻击技术(与MITRE ATT&CK攻击矩阵保持一致)、攻击工具、防御手段等领域。
+
 8. raesene安全研究员的博客K8s专题
 
 - 🔗 链接：<https://raesene.github.io/categories/index.html#Kubernetes-ref>
