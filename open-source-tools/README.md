@@ -1,5 +1,23 @@
 # 开源工具
 
+12. GCPwn
+
+- 🔗 链接：<https://github.com/NetSPI/gcpwn>
+- 💬 简介：一个针对Google Cloud Platform (GCP) 的渗透测试框架，旨在帮助用户学习和利用GCP的安全特性，同时也为渗透测试人员和安全研究人员提供便利。用Python实现的类似于针对AWS的Pacu框架，专门为GCP设计。这个框架包括了一些核心服务（如Cloud Storage、Cloud Functions、Cloud Compute、IAM）的枚举模块。框架中还整合了许多利用模块，其中许多基于Rhino Security当前公开的GCP漏洞库。
+- 🎙️ 作者视频：来自fwd:cloudsec 2024会议[GCPwn：GCP 的渗透测试工具 - Scott Weston](https://www.youtube.com/watch?v=opvv9h3Qe0s)
+
+11.   KubeHound
+
+- 🔗 链接：<https://github.com/DataDog/KubeHound>
+- 💬 简介：KubeHound是一款用于动态分析Kubernetes集群安全风险的工具，通过计算集群中各类资源配置与访问关系绘制潜在的攻击路径。KubeHound的优点在于使用图数据库，数据成果以集群资源为顶点(Vertex)，以攻击类型为边(Edge)，使用Gremlin数据库查询语言搜索攻击链路。
+- 🎙️ 作者视频：来自SO-CON 2024会议[KubeHound and Beyond - Jeremy Fox]<https://youtu.be/pdCcJ-Kenf8?si=JyFUtRfJfFU2cDAP>
+- 🔖使用案例：<https://mp.weixin.qq.com/s/sQ8brkm6D5DDTlUdaI41yw>
+
+10. Stratus Red Team
+
+- 🔗 链接：<https://github.com/DataDog/stratus-red-team>
+- 💬 简介：Stratus Red Team是专门针对云环境设计的攻击模拟工具。它允许用户以一种细粒度和自包含的方式模拟攻击性攻击技术，可以被视为云环境中的"[Atomic Red Team™]。旨在帮助安全团队通过模拟攻击来测试和提高他们的云安全防御能力。通过这种方式，团队可以更好地了解潜在的攻击路径，并开发出更有效的防御策略。
+
 9. Netfetch
 
 - 🔗 链接：<https://github.com/deggja/netfetch>
