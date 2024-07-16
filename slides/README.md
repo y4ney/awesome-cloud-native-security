@@ -22,7 +22,7 @@
 - 📅 日期：2024-03-11
 - 💬 标题：KubeHound and Beyond: Evolving Security Through Graphs & Automation - Jeremy Fox [SO-CON 2024](https://youtube.com/playlist?list=PLJK0fZNGiFU_Zh8PkjCws_Rw_8WdWKyd7&si=41KaKcoldSzIrhMn)
 - 📃 简介：这是Jeremy Fox在[SO-CON 2024](https://specterops.io/so-con/)会上的一篇演讲。本次演讲中Jeremy Fox将重点介绍Kubernetes安全，使用开源攻击路径计算工具KubeHound将防御模型从基于列表思维转变为基于图的思维(graph-based)。首先介绍基于列表方法的一些缺点，然后将以KubeHound为例，演示攻击"图数据"(attack graphs)如何解决这些缺点。最后介绍 KubeHound 的开发过程，如何根据公开研究创建Kubernetes中的攻击抽象图数据模型，以及如何将该过程扩展到其他领域。让我们更好地理解基于图的技术如何帮助解决现代Kubernetes中的安全复杂性，以及在其他领域创建自己的基于图的攻击模型路线图。
-- 📑 文件：<https://github.com/SpecterOps/presentations/tree/main/SO-CON%202024/Jeremy%20Fox%20-%20KubeHound%20and%20Beyond>
+- 📑 文件：[KubeHound and Beyond_Jeremy Fox](https://github.com/SpecterOps/presentations/tree/main/SO-CON%202024/Jeremy%20Fox%20-%20KubeHound%20and%20Beyond)
 - 🔗 在线观看：<https://youtu.be/pdCcJ-Kenf8?si=JyFUtRfJfFU2cDAP>
 
 
@@ -31,7 +31,7 @@
 - 📅 日期：2024-03-11
 - 💬 标题：Project Apeman: Mapping AWS Identity Attack Paths - Daniel Heinsen [SO-CON 2024](https://youtube.com/playlist?list=PLJK0fZNGiFU_Zh8PkjCws_Rw_8WdWKyd7&si=41KaKcoldSzIrhMn)
 - 📃 简介：这是Daniel Heinsen在[SO-CON 2024](https://specterops.io/so-con/)会上的一篇演讲。在不断发展的云安全格局中，自动发现身份攻击路径已成为缓解网络威胁的关键策略。本次演讲深入探讨了AWS生态系统中的"Tier 0"安全概念，并介绍了Apeman，这是一种新的原型工具，旨在映射和可视化AWS身份攻击路径。讨论还将深入探讨Apeman开发过程中遇到的挑战。
-- 📑 文件：<https://github.com/SpecterOps/presentations/tree/main/SO-CON%202024/Daniel%20Heinsen%20-%20Project%20Apeman>
+- 📑 文件：[Project Apeman_Daniel Heinsen](https://github.com/SpecterOps/presentations/tree/main/SO-CON%202024/Daniel%20Heinsen%20-%20Project%20Apeman)
 - 🔗 在线观看：<https://youtu.be/Gs5BZplrxe4?si=anDhx4cXyukgSEgJ>
 
 
