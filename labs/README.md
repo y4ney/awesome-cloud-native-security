@@ -67,3 +67,10 @@
 
 - 🔗 链接：<https://github.com/raesene/kube_security_lab>
 - 💬 简介：使用 Docker、Kind 和 Ansible 创建的本地 K8S 环境，包含 14 个易受攻击的场景。
+
+## AWS
+
+13. Pwned Labs
+
+- 🔗 链接：<https://pwnedlabs.io/>
+- 💬 简介：AWS公有云安全靶场，有官方配套题解，除了攻还有防，很适合入门和补缺～每个靶场有相应的场景和 RealWorld 描述，也把像 BlackHat 议题的点做成靶场，整体质量很高。来自@tari大佬的推荐，他整理的思维导图知识点很值得参考：<https://tari.moe/2024/pwnedlabs-aws-free.html>
