@@ -3,7 +3,7 @@
 12. GCPwn
 
 - 🔗 链接：<https://github.com/NetSPI/gcpwn>
-- 💬 简介：一个针对Google Cloud Platform (GCP) 的渗透测试框架，旨在帮助用户学习和利用GCP的安全特性，同时也为渗透测试人员和安全研究人员提供便利。用Python实现的类似于针对AWS的Pacu框架，专门为GCP设计。这个框架包括了一些核心服务（如Cloud Storage、Cloud Functions、Cloud Compute、IAM）的枚举模块。框架中还整合了许多利用模块，其中许多基于Rhino Security当前公开的GCP漏洞库。
+- 💬 简介：一个针对Google Cloud Platform (GCP) 的渗透测试框架，旨在帮助用户学习和利用GCP的安全特性，同时也为渗透测试人员和安全研究人员提供便利。用Python实现的类似于针对AWS的Pacu框架，专门为GCP设计。包括一些核心服务（云存储、云功能、云计算、IAM）的枚举模块以及大量漏洞利用模块的整合，其中许多模块都基于Rhino Security目前[公开的GCP漏洞利用存储库](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation/tree/master)。是为 GCP 渗透测试人员/红队/研究人员制作一个最新的、维护良好的枚举和漏洞利用工具集，通过允许普通用户制作自己的模块并轻松与整体框架结合，降低学习 GCP 的门槛。
 - 🎙️ 作者视频：来自fwd:cloudsec 2024会议[GCPwn：GCP 的渗透测试工具 - Scott Weston](https://www.youtube.com/watch?v=opvv9h3Qe0s)
 
 11.   KubeHound
