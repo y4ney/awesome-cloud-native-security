@@ -10,7 +10,7 @@
 
 - 🔗 链接：<https://github.com/DataDog/KubeHound>
 - 💬 简介：KubeHound是一款用于动态分析Kubernetes集群安全风险的工具，通过计算集群中各类资源配置与访问关系绘制潜在的攻击路径。KubeHound的优点在于使用图数据库，数据成果以集群资源为顶点(Vertex)，以攻击类型为边(Edge)，使用Gremlin数据库查询语言搜索攻击链路。
-- 🎙️ 作者视频：来自SO-CON 2024会议[KubeHound and Beyond - Jeremy Fox]<https://youtu.be/pdCcJ-Kenf8?si=JyFUtRfJfFU2cDAP>
+- 🎙️ 作者视频：来自SO-CON 2024会议[KubeHound and Beyond - Jeremy Fox](https://youtu.be/pdCcJ-Kenf8?si=JyFUtRfJfFU2cDAP)
 - 🔖使用案例：<https://mp.weixin.qq.com/s/sQ8brkm6D5DDTlUdaI41yw>
 
 10. Stratus Red Team
