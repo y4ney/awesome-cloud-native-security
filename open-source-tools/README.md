@@ -1,5 +1,45 @@
 # 开源工具
 
+20. CDK
+
+- 🔗 链接：https://github.com/cdk-team/CDK
+- 💬 简介：容器和K8s环境渗透神器，无人不知无人不晓。
+
+19. neuvector
+
+- 🔗 链接：https://github.com/neuvector/neuvector
+- 💬 简介：NeuVector 全生命周期容器安全平台提供唯一的云原生安全性，具有从 DevOps 漏洞保护到自动运行时安全的不折不扣的端到端保护，并具有真正的第 7 层容器防火墙。之前是国外云原生安全公司neuvector的商业产品，后来被suse收购后100%开源了。
+
+18. whispers
+
+- 🔗 链接：https://github.com/Skyscanner/whispers
+- 💬 简介：Whispers 是一款静态代码分析工具，旨在解析各种常见数据格式以查找硬编码凭据和危险函数。Whispers 可以在 CLI 中运行，也可以将其集成到 CI/CD 管道中。
+
+17. kubeclarity
+
+- 🔗 链接：https://github.com/openclarity/kubeclarity
+- 💬 简介：KubeClarity 是一款用于检测和管理软件物料清单 (SBOM) 以及容器映像和文件系统漏洞的工具。它可以扫描运行时 K8s 集群和 CI/CD 管道，以增强软件供应链安全性。
+
+16. HummerRisk
+
+- 🔗 链接：https://github.com/HummerRisk/HummerRisk
+- 💬 简介：HummerRisk 是开源的云原生安全平台，以非侵入的方式解决云原生的安全和治理问题。核心能力包括混合云的安全治理和云原生安全检测。支持全面: 支持的几乎所有公有云，包括：阿里云、腾讯云、华为云、火山引擎、百度云、青云、京东云、金山云、七牛云、UCloud、Amazon Web Services、Microsoft Azure、Google Cloud，支持的私有云包括：OpenStack、VMware vSphere，并还在不断的扩充支持的范围；
+
+15. kubeshark
+
+- 🔗 链接：https://github.com/kubeshark/kubeshark
+- 💬 简介：Kubeshark是Kubernetes的 API 流量分析器，可提供 Kubernetes 内部网络的实时、协议级可见性，捕获和监控进出容器、pod、节点和集群的所有流量和有效负载。
+
+14. Veinmind-tools
+
+- 🔗 链接：https://github.com/chaitin/veinmind-tools
+- 💬 简介：veinmind-tools 是由长亭科技自研，牧云团队孵化，基于 veinmind-sdk 打造的容器安全工具集，可以扫描容器或镜像的安全风险。
+
+13. Checkov
+
+- 🔗 链接：https://github.com/bridgecrewio/checkov
+- 💬 简介：Checkov是一个针对基础设施即代码（IaC）的静态代码分析工具，也是一个针对图像和开源包的软件组合分析（SCA）工具。
+
 12. GCPwn
 
 - 🔗 链接：<https://github.com/NetSPI/gcpwn>

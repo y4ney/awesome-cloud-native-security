@@ -2,13 +2,13 @@
 
 ## 2024-07
 
-28. 2024年中国网络安全市场全景图
+29. 2024年中国网络安全市场全景图
 
 - 📅 日期：2024-07-04
 - 📑 文件：[2024年中国网络安全市场全景图](./2024-07/2024年中国网络安全市场全景图.pdf)
 - 🔗 链接：<https://www.secrss.com/articles/67755>
 
-27. 云安全责任共担模型2024
+28. 云安全责任共担模型2024
 
 - 📅 日期：2024-07-03
 - 📑 文件：[云安全责任共担模型2024](./2024-07/云安全责任共担模型2024.pdf)
@@ -16,7 +16,7 @@
 
 ## 2024-04
 
-26. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+27. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
@@ -24,7 +24,7 @@
 
 ## 2023-10
 
-25. 容器编排蜜罐: 观察在野攻击
+26. 容器编排蜜罐: 观察在野攻击
     
 - 📅 日期：2023-10-16
 - 📑 文件：[Container Orchestration Honeypot: Observing Attacks in the Wild](./2023-10/Container_Orchestration_Honeypot_Observing_Attacks_in_the_Wild.pdf)
@@ -32,7 +32,7 @@
 
 ## 2023-09
 
-24. 解秘漏洞管理：独立工具与端点保护技术
+25. 解秘漏洞管理：独立工具与端点保护技术
 
 - 📅 日期：2023-03-24
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-03/Decoding%20Vulnerability%20Management-%20A%20Stand%20Alone%20Tool%20vs.%20a%20Technique%20in%20Endpoint%20Protection.pdf)
@@ -40,7 +40,7 @@
 
 ## 2023-07
 
-23. 信通院《云原生安全配置基线规范》
+24. 信通院《云原生安全配置基线规范》
 
 - 📅 日期：2023-07-28
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-07/云原生安全配置基线规范-终稿V4.pdf)
@@ -48,7 +48,7 @@
 
 ## 2023-06
 
-22. CIS Docker 合规基线 v1.6.0
+23. CIS Docker 合规基线 v1.6.0
 
 - 📅 日期：2023-06-22
 - 📑 文件：[CIS Docker Benchmark v1.6.0](./2023-06/CIS_Docker_Benchmark_V1.6.0.PDF)
@@ -56,7 +56,7 @@
 
 ## 2023-04
 
-21. 如何实施基于风险的漏洞管理方法
+22. 如何实施基于风险的漏洞管理方法
 
 - 📅 日期：2023-04-20
 - 📑 文件：[How To Implement a Risk-Based Vulnerability Management Methodology](./2023-04/How%20To%20Implement%20a%20Risk-Based%20Vulnerability%20Management%20Methodology.pdf)
@@ -64,11 +64,17 @@
 
 ## 2023-03
 
-20. 云安全防护：有效的漏洞管理指南
+21. 云安全防护：有效的漏洞管理指南
 
 - 📅 日期：2023-09-14
 - 📑 文件：[Securing the Cloud:A Guide to Effective Vulnerability Management](./2023-09/securing-the-cloud-guide-to-effective-vulnerability-management.pdf)
 - 🔗 链接：<https://whitepaperseries.com/wp-content/uploads/2024/03/134531_securingthecloudguidetoeffectivevulnerabilitymanagement.pdf>
+
+## 2023-01
+
+20. 基于异构观测链的容器逃逸检测方法
+- 📅 日期：2023-01
+- 🔗 链接：https://www.infocomm-journal.com/txxb/CN/abstract/abstract173110.shtml
 
 ## 2022-12
 
