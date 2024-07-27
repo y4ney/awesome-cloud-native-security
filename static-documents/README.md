@@ -6,6 +6,23 @@
 
 ## 2024-07
 
+36. Kubernetes 历史：它如何征服云原生编排
+
+- 📅 日期：2024-07-25
+- 🔗 链接：[Kubernetes History: How It Conquered Cloud Native Orchestration](https://www.aquasec.com/blog/kubernetes-history-how-it-conquered-cloud-native-orchestration/)
+
+
+35. 过时的安全：为什么我们使用隔离虚拟机
+
+- 📅 日期：2024-07-25
+- 🔗 链接：[Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
+
+
+34. 揭示AWS会话令牌的内部结构
+
+- 📅 日期：2024-07-25
+- 🔗 链接：[Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
+
 33. 启动您的Kubernetes安全
 
 - 📅 日期：2024-07-02
