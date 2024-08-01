@@ -31,13 +31,13 @@
 34. 容器逃逸：云环境中的逃逸技术(来自Palo Alto博客)
 
 - 📅 日期：2024-07-18
-- :标题：Container Breakouts: Escape Techniques in Cloud Environments
-- 🔗 链接：https://unit42.paloaltonetworks.com/container-escape-techniques/
+- 💬 标题：Container Breakouts: Escape Techniques in Cloud Environments
+- 🔗 链接：[Container Breakouts: Escape Techniques in Cloud Environments](https://unit42.paloaltonetworks.com/container-escape-techniques/)
 
 33. 启用安全防护：使用 CDK for Terraform 实现基础设施即代码
 
 - 📅 日期：2024-07-15
-- 标题：Enabling Security Guardrails: Infra as Code with CDK for Terraform
+- 💬 标题：Enabling Security Guardrails: Infra as Code with CDK for Terraform
 - 🔗 链接：[Enabling Security Guardrails: Infra as Code with CDK for Terraform](https://engineering.ziphq.com/enabling-security-guardrails-infra-as-code-with-cdk-for-terraform/)
 
 ## 2024-06
