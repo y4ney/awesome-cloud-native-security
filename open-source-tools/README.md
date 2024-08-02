@@ -1,5 +1,11 @@
 # 开源工具
 
+21. nnsee/fileless-elf-exec
+
+- 🔗 链接：https://github.com/nnsee/fileless-elf-exec
+- 💬 简介：一个 Python 脚本用于无文件执行，可帮助将 ELF 二进制文件直接在内存执行，避免磁盘写入并绕过 noexec 挂载标志。它支持自定义选项，例如指定目标架构、包装较长的 base64 编码字符串以及通过 SSH 进行管道传输，使其成为隐秘执行二进制文件的多功能工具。
+
+  
 20. CDK
 
 - 🔗 链接：https://github.com/cdk-team/CDK
