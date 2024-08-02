@@ -1,5 +1,10 @@
 # 开源工具
 
+22. valvals-operator
+
+- 🔗 链接：https://github.com/digitalis-io/vals-operator
+- 💬 简介：vals-operator 通过集成 [vals](https://github.com/helmfile/vals) 工具，为 Kubernetes 提供了一种安全、高效的机密管理解决方案。它简化了从多种机密存储系统中获取和管理机密数据的过程，提高了机密数据的安全性和管理效率。
+
 21. nnsee/fileless-elf-exec
 
 - 🔗 链接：https://github.com/nnsee/fileless-elf-exec
