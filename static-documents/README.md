@@ -6,64 +6,69 @@
 
 ## 2024-07
 
-39. Kubernetes 历史：它如何征服云原生编排
+40. Kubernetes 历史：它如何征服云原生编排
 
 - 📅 日期：2024-07-25
 - 🔗 链接：[Kubernetes History: How It Conquered Cloud Native Orchestration](https://www.aquasec.com/blog/kubernetes-history-how-it-conquered-cloud-native-orchestration/)
 
 
-38. 过时的安全：为什么我们使用隔离虚拟机
+39. 过时的安全：为什么我们使用隔离虚拟机
 
 - 📅 日期：2024-07-25
 - 🔗 链接：[Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
 
 
-37. 揭示AWS会话令牌的内部结构
+38. 揭示AWS会话令牌的内部结构
 
 - 📅 日期：2024-07-25
 - 🔗 链接：[Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
 
-36. 一份循序渐进的AWS渗透测试指南
+37. 一份循序渐进的AWS渗透测试指南
 
 - 📅 日期：2024-07-22
 - 🔗 链接：[An Opinionated Ramp Up Guide to AWS Pentesting](https://awssecuritydigest.com/articles/opinionated-ramp-up-guide-to-aws-pentesting)
-- 💬 简介：Lizzie Moratti提供了一份深入的AWS渗透测试指南，利用了pwnedlabs.io靶场、Rich Mogull的[Cloud Security Lab a Week](https://slaw.securosis.com/)(每周云安全实验室)以及Scott Piper的[AWS Security Maturity Roadmap](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)（AWS安全成熟度路线图）等资源。Lizzie 提供了一些关于云渗透测试的热门观点，以及五阶段学习方法。
+- 💬 简介：Lizzie Moratti提供了一份深入的AWS渗透测试指南，利用了[pwnedlabs.io](https://pwnedlabs.io/)靶场、Rich Mogull的[Cloud Security Lab a Week](https://slaw.securosis.com/)(每周云安全实验室)以及Scott Piper的[AWS Security Maturity Roadmap](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)（AWS安全成熟度路线图）等资源。Lizzie 提供了一些关于云渗透测试的热门观点，以及五阶段学习方法。
 
-35. 启动您的Kubernetes安全
 
-- 📅 日期：2024-07-02
-- 🔗 链接：[Kickstart Your Kubernetes Security](https://cloudnativenow.com/social-facebook/kickstart-your-kubernetes-security/)
-
-34. 容器逃逸：云环境中的逃逸技术(来自Palo Alto博客)
+36. 容器逃逸：云环境中的逃逸技术(来自Palo Alto博客)
 
 - 📅 日期：2024-07-18
 - 💬 标题：Container Breakouts: Escape Techniques in Cloud Environments
 - 🔗 链接：[Container Breakouts: Escape Techniques in Cloud Environments](https://unit42.paloaltonetworks.com/container-escape-techniques/)
 
-33. 启用安全防护：使用 CDK for Terraform 实现基础设施即代码
+35. 启用安全防护：使用 CDK for Terraform 实现基础设施即代码
 
 - 📅 日期：2024-07-15
 - 💬 标题：Enabling Security Guardrails: Infra as Code with CDK for Terraform
 - 🔗 链接：[Enabling Security Guardrails: Infra as Code with CDK for Terraform](https://engineering.ziphq.com/enabling-security-guardrails-infra-as-code-with-cdk-for-terraform/)
 
+34. 启动您的Kubernetes安全
+
+- 📅 日期：2024-07-02
+- 🔗 链接：[Kickstart Your Kubernetes Security](https://cloudnativenow.com/social-facebook/kickstart-your-kubernetes-security/)
+
 ## 2024-06
 
-32. K8s日志指南
+33. K8s日志指南
 
 - 📅 日期：2024-06-01  
 - 🔗 链接：[A Guide To Kubernetes Logs That Isn't A Vendor Pitch](https://grahamhelton.com/blog/k8slogs/)
 
-31. 天翼云对象存储ZOS攻防
+32. 天翼云对象存储ZOS攻防
 
 - 📅 日期：2024-06-26
 - 🔗 链接：[天翼云对象存储ZOS攻防](https://zone.huoxian.cn/d/2916-zos)
 
-30. 攻击者针对暴露的Docker API利用新技巧
+31. 攻击者针对暴露的Docker API利用新技巧
 
 - 📅 日期：2024-06-13
 - 🔗 链接：[Attackers deploying new tactics in campaign targeting exposed Docker APIs](https://securitylabs.datadoghq.com/articles/attackers-deploying-new-tactics-in-campaign-targeting-exposed-docker-apis/)
 
 ## 2024-05
+
+30. Docker 逃逸中被忽略的 pid namespace
+- 📅 日期：2024-05-25
+- 🔗 链接：[Docker 逃逸中被忽略的 pid namespace](https://tiangonglab.github.io/blog/tiangongarticle030/)
 
 29. 实战-关于KEY泄露API接口利用
 
