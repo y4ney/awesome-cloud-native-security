@@ -4,10 +4,15 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+13. TupleType/awesome-cicd-attacks
+
+- 🔗 链接：<https://github.com/TupleType/awesome-cicd-attacks>
+- 💬 简介：供应链安全相关，跨技术（公开敏感数据、初始代码执行、后渗透利用、防御规避）、攻击工具、案例研究和类似项目的 CI/CD 安全研究实用资源。
+
 12. tl;dr sec
 
-- 链接：<https://tldrsec.com/>
-- 简介：每周 7 分钟即可了解网络安全动态。共 50,000 多名安全专业人士订阅，免费在收件箱中获取最佳工具、讲座和资源。每期都有CloudSec或DockerSec专题。
+- 🔗 链接：<https://tldrsec.com/>
+- 💬 简介：每周 7 分钟即可了解网络安全动态。共 50,000 多名安全专业人士订阅，免费在收件箱中获取最佳工具、讲座和资源。每期都有CloudSec或DockerSec专题。
 
 11. CloudSecList
 
