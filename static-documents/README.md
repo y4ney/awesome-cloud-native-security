@@ -6,22 +6,28 @@
 
 ## 2024-07
 
-38. Kubernetes 历史：它如何征服云原生编排
+39. Kubernetes 历史：它如何征服云原生编排
 
 - 📅 日期：2024-07-25
 - 🔗 链接：[Kubernetes History: How It Conquered Cloud Native Orchestration](https://www.aquasec.com/blog/kubernetes-history-how-it-conquered-cloud-native-orchestration/)
 
 
-37. 过时的安全：为什么我们使用隔离虚拟机
+38. 过时的安全：为什么我们使用隔离虚拟机
 
 - 📅 日期：2024-07-25
 - 🔗 链接：[Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html)
 
 
-36. 揭示AWS会话令牌的内部结构
+37. 揭示AWS会话令牌的内部结构
 
 - 📅 日期：2024-07-25
 - 🔗 链接：[Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
+
+36. 一份循序渐进的AWS渗透测试指南
+
+- 📅 日期：2024-07-22
+- 🔗 链接：[An Opinionated Ramp Up Guide to AWS Pentesting](https://awssecuritydigest.com/articles/opinionated-ramp-up-guide-to-aws-pentesting)
+- 💬 简介：Lizzie Moratti提供了一份深入的AWS渗透测试指南，利用了pwnedlabs.io靶场、Rich Mogull的[Cloud Security Lab a Week](https://slaw.securosis.com/)(每周云安全实验室)以及Scott Piper的[AWS Security Maturity Roadmap](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)（AWS安全成熟度路线图）等资源。Lizzie 提供了一些关于云渗透测试的热门观点，以及五阶段学习方法。
 
 35. 启动您的Kubernetes安全
 
