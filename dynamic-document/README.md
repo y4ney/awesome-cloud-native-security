@@ -4,6 +4,21 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+12. tl;dr sec
+
+- 链接：<https://tldrsec.com/>
+- 简介：每周 7 分钟即可了解网络安全动态。共 50,000 多名安全专业人士订阅，免费在收件箱中获取最佳工具、讲座和资源。每期都有CloudSec或DockerSec专题。
+
+11. CloudSecList
+
+- 🔗 链接：<https://cloudseclist.com/>
+- 💬 简介：面向云安全专业人士的新闻咨询，CloudSecList是掌握云安全领域最新动态的最佳方式，每周发送一次，让您随时了解与云原生技术安全相关的最新动态和新闻。
+
+10. AWS安全摘要（AWS Security Digest）
+
+- 🔗 链接：<https://awssecuritydigest.com/>
+- 💬 简介：该网站更新所有 AWS 安全新闻、研究和技术变化，每个周一更新，可以邮箱订阅。
+
 9. Wiz云威胁全景(云威胁情报数据库)
 
 - 🔗 链接：<https://threats.wiz.io/>
