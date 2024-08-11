@@ -2,13 +2,13 @@
 
 ## 2024-07
 
-29. 2024年中国网络安全市场全景图
+30. 2024年中国网络安全市场全景图
 
 - 📅 日期：2024-07-04
 - 📑 文件：[2024年中国网络安全市场全景图](./2024-07/2024年中国网络安全市场全景图.pdf)
 - 🔗 链接：<https://www.secrss.com/articles/67755>
 
-28. 云安全责任共担模型2024
+29. 云安全责任共担模型2024
 
 - 📅 日期：2024-07-03
 - 📑 文件：[云安全责任共担模型2024](./2024-07/云安全责任共担模型2024.pdf)
@@ -16,7 +16,7 @@
 
 ## 2024-04
 
-27. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+28. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
@@ -24,7 +24,7 @@
 
 ## 2023-10
 
-26. 容器编排蜜罐: 观察在野攻击
+27. 容器编排蜜罐: 观察在野攻击
     
 - 📅 日期：2023-10-16
 - 📑 文件：[Container Orchestration Honeypot: Observing Attacks in the Wild](./2023-10/Container_Orchestration_Honeypot_Observing_Attacks_in_the_Wild.pdf)
@@ -32,7 +32,7 @@
 
 ## 2023-09
 
-25. 解秘漏洞管理：独立工具与端点保护技术
+26. 解秘漏洞管理：独立工具与端点保护技术
 
 - 📅 日期：2023-03-24
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-03/Decoding%20Vulnerability%20Management-%20A%20Stand%20Alone%20Tool%20vs.%20a%20Technique%20in%20Endpoint%20Protection.pdf)
@@ -40,7 +40,7 @@
 
 ## 2023-07
 
-24. 信通院《云原生安全配置基线规范》
+25. 信通院《云原生安全配置基线规范》
 
 - 📅 日期：2023-07-28
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-07/云原生安全配置基线规范-终稿V4.pdf)
@@ -48,7 +48,7 @@
 
 ## 2023-06
 
-23. CIS Docker 合规基线 v1.6.0
+24. CIS Docker 合规基线 v1.6.0
 
 - 📅 日期：2023-06-22
 - 📑 文件：[CIS Docker Benchmark v1.6.0](./2023-06/CIS_Docker_Benchmark_V1.6.0.PDF)
@@ -56,7 +56,7 @@
 
 ## 2023-04
 
-22. 如何实施基于风险的漏洞管理方法
+23. 如何实施基于风险的漏洞管理方法
 
 - 📅 日期：2023-04-20
 - 📑 文件：[How To Implement a Risk-Based Vulnerability Management Methodology](./2023-04/How%20To%20Implement%20a%20Risk-Based%20Vulnerability%20Management%20Methodology.pdf)
@@ -64,7 +64,7 @@
 
 ## 2023-03
 
-21. 云安全防护：有效的漏洞管理指南
+22. 云安全防护：有效的漏洞管理指南
 
 - 📅 日期：2023-09-14
 - 📑 文件：[Securing the Cloud:A Guide to Effective Vulnerability Management](./2023-09/securing-the-cloud-guide-to-effective-vulnerability-management.pdf)
@@ -72,13 +72,13 @@
 
 ## 2023-01
 
-20. 基于异构观测链的容器逃逸检测方法
+21. 基于异构观测链的容器逃逸检测方法
 - 📅 日期：2023-01
 - 🔗 链接：https://www.infocomm-journal.com/txxb/CN/abstract/abstract173110.shtml
 
 ## 2022-12
 
-19. CIS Docker 合规基线 v1.5.0
+20. CIS Docker 合规基线 v1.5.0
 
 - 📅 日期：2022-12-28
 - 📑 文件：[CIS Docker Benchmark v1.5.0](./2022-12/CIS%20Docker%20Benchmark%20v1.5.0%20PDF.pdf)
@@ -86,7 +86,7 @@
 
 ## 2022-08
 
-18. Kubernetes 加固指南
+19. Kubernetes 加固指南
 
 - 📅 日期：2022-08-29
 - 📑 文件：[Kubernetes Hardening Guide](./2022-08/Kubernetes%20Hardening%20Guide.pdf)
@@ -94,13 +94,13 @@
 
 ## 2022-05
 
-17. CIS Kubernetes V1.23 合规基线 v1.0.1
+18. CIS Kubernetes V1.23 合规基线 v1.0.1
 
 - 📅 日期：2022-05-13
 - 📑 文件：[CIS Kubernetes V1.23 Benchmark v1.0.1](./2022-05/CIS_Kubernetes_V1.23_Benchmark_V1.0.1_PDF.pdf)
 - 🔗 链接：<https://workbench.cisecurity.org/benchmarks/8973>
 
-16. Kubernetes特权升级：流行平台中的过度权限
+17. Kubernetes特权升级：流行平台中的过度权限
 
 - 📅 日期：2022-05-17
 - 📑 文件：[Kubernetes Privilege Escalation: Excessive Permissions in Popular Platforms](./2022-05/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms.pdf)
@@ -108,7 +108,7 @@
 
 ## 2022-04
 
-15. 企业补丁管理规划指南：技术预防性维护
+16. 企业补丁管理规划指南：技术预防性维护
 
 - 📅 日期：2022-04-06
 - 📑 文件：[Guide to Enterprise Patch Management Planning:Preventive Maintenance for Technology](./2022-04/Guide%20to%20Enterprise%20Patch%20Management%20Planning：%20Preventive%20Maintenance%20for%20Technology.pdf)
@@ -116,7 +116,7 @@
 
 ## 2022-03
 
-14. CIS Docker 合规基线 v1.4.0
+15. CIS Docker 合规基线 v1.4.0
 
 - 📅 日期：2022-03-01
 - 📑 文件：[CIS Docker Benchmark v1.4.0](./2022-03/CIS_Docker_Benchmark_v1.4.0_PDF.pdf)
@@ -124,7 +124,7 @@
 
 ## 2021-12
 
-13. 容器云中的安全挑战
+14. 容器云中的安全挑战
 
 - 📅 日期：2021-12-13
 - 📑 文件：[Security Challenges in the Container Cloud](./2021-12/Security%20Challenges%20in%20the%20Container%20Cloud.pdf)
@@ -132,7 +132,7 @@
 
 ## 2021-09
 
-12. 靶机实验：综合场景下的渗透实战
+13. 靶机实验：综合场景下的渗透实战
 
 - 📅 日期：2021-09-25
 - 📑 文件：[靶机实验：综合场景下的渗透实战](./2021-09/靶机实验：综合场景下的渗透实战.pdf)
@@ -140,19 +140,19 @@
 
 ## 2021-05
 
-11. CIS Docker 合规基线 v1.3.1
+12. CIS Docker 合规基线 v1.3.1
 
 - 📅 日期：2022-05-18
 - 📑 文件：[CIS Docker Benchmark v1.3.1](./2021-05/CIS_Docker_Benchmark_v1.3.1_PDF.pdf)
 - 🔗 链接：<https://workbench.cisecurity.org/benchmarks/7193>
 
-10. 2021 Cortex Xpanse攻击表面威胁报告
+11. 2021 Cortex Xpanse攻击表面威胁报告
 
 - 📅 日期：2021-05-10
 - 📑 文件：[2021 Cortex Xpanse Attack Surface Threat Report](./2021-05/2021%20Cortex%20Xpanse%20Attack%20Surface%20Threat%20Report.pdf)
 - 🔗 链接：<https://www.paloaltonetworks.com/resources/research/2021-attack-surface-threat-report>
 
-9. CIS Docker 合规基线 v1.3.0
+10. CIS Docker 合规基线 v1.3.0
 
 - 📅 日期：2022-05-03
 - 📑 文件：[CIS Docker Benchmark v1.3.0](./2021-05/CIS_Docker_Benchmark_v1.3.0.pdf)
@@ -160,10 +160,16 @@
 
 ## 2021-01
 
+9. AWS Security Maturity Roadmap：AWS安全成熟度模型和路线白皮书
+
+- 📅 日期：2021-01
+- 📑 文件：[AWS Security Maturity Roadmap](./2021-01/aws_security_maturity_roadmap-Summit_Route.pdf)
+- 🔗 链接：<https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf>
+
 8. Sysdig 2021 容器安全和使用报告
 
 - 📅 日期：2021-01-13
-- 📑 文件：[Sysdig 2021 Container Security and Usage Report](./2021-01//2021-container-security-and-usage-report.pdf)
+- 📑 文件：[Sysdig 2021 Container Security and Usage Report](./2021-01/2021-container-security-and-usage-report.pdf)
 - 🔗 链接：<https://sysdig.com/wp-content/uploads/2021-container-security-and-usage-report.pdf>
 
 7. 2020 绿盟云原生安全技术报告
