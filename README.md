@@ -20,7 +20,7 @@
 
 - 📖 [书籍（7）](./books/README.md)
 - 🛠️ [闭源工具（2）](./closed-source-tools/README.md)
-- 📚 [文库博客（13）](./dynamic-document/README.md)
+- 📚 [文库博客（14）](./dynamic-document/README.md)
 - 🏝 [靶场（13）](./labs/README.md)
 - 🔍 [开源工具(22)](./open-source-tools/README.md)
 - 📑 [论文报告（30）](./papers/README.md)
