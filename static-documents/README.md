@@ -6,7 +6,7 @@
 
 ## 2024-08
 
-41. CVE-2024-7646：Ingress-nginx注释验证绕过
+42. CVE-2024-7646：Ingress-nginx注释验证绕过
 
 - 📅 日期：2024-08-16
 - 🔗 链接1：[K8s issue](https://github.com/kubernetes/kubernetes/issues/126744)
@@ -14,6 +14,13 @@
 - 🔗 链接3：[CVE-2024-7646：Ingress-nginx注释验证绕过【高危】](https://mp.weixin.qq.com/s/heUTzB0clK0TP0bDGEunGw)
 
 ## 2024-07
+
+41. 利用gitRepo volumes创建权限如何拿下K8s节点root权限
+
+- 📅 日期：2024-07
+- 🔗 链接1：[Sneaky write hook: git clone to root on k8s node](https://irsl.medium.com/sneaky-write-hook-git-clone-to-root-on-k8s-node-e38236205d54)
+- 🔗 链接2：[Fun With GitRepo Volumes](https://raesene.github.io/blog/2024/07/10/Fun-With-GitRepo-Volumes/)
+- 💬 简介：这两篇博客文章讨论了一个Kubernetes中未修补的安全问题，允许任何有权限创建gitRepo卷的用户以root用户身份在底层主机上执行代码。
 
 40. Kubernetes 历史：它如何征服云原生编排
 
