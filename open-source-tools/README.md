@@ -1,5 +1,10 @@
 # 开源工具
 
+23. XMGoat
+
+- 🔗 链接：https://github.com/XMCyber/XMGoat
+- 💬 简介：XM Goat是一款针对Azure的环境安全检测工具,XM Goat 由 XM Cyber Terraform 模板组成，可帮助您了解常见的 Azure 安全问题。每个模板都是一个用于安全技术学习的靶机环境，包含了一些严重的配置错误。在该工具的帮助下，广大研究人员可以更好地理解和学习针对Azure安全的相关知识和技术。
+
 22. valvals-operator
 
 - 🔗 链接：https://github.com/digitalis-io/vals-operator
