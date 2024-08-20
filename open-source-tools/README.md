@@ -1,5 +1,15 @@
 # 开源工具
 
+25. GuardDog
+
+- 🔗 链接：https://securitylabs.datadoghq.com/articles/guarddog-2-0-release/
+- 💬 简介：Datadog安全实验室发布的GuardDog 2.0版本，这是一个开源项目，用于识别恶意的PyPI和npm软件包。
+
+24. aws-lint-iam-policies
+ 
+- 🔗 链接：https://github.com/welldone-cloud/aws-lint-iam-policies
+- 💬 简介：针对单个AWS帐户或AWS组织的一组成员帐户执行IAM策略linting和安全检查。
+
 23. XMGoat
 
 - 🔗 链接：https://github.com/XMCyber/XMGoat
