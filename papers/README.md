@@ -29,6 +29,7 @@
 - 📅 日期：2024-03-20
 - 📑 文件：[Cloud Native Artificial Intelligence Whitepaper](./2024-03/CLOUD%20NATIVE%20ARTIFICIAL%20INTELLIGENCE.pdf)
 - 🔗 链接：<https://www.cncf.io/reports/cloud-native-artificial-intelligence-whitepaper/>
+- 💬 简介：来自CNCF的白皮书讨论了云原生技术与人工智能（AI/ML）之间的结合，强调了如何利用云原生架构来提升AI模型的开发、部署和管理效率。它探讨了云原生技术的优势，如可扩展性、弹性和自动化，以及如何将这些特性应用于AI工作负载。白皮书还介绍了一些最佳实践和案例研究，帮助企业在云环境中有效地实施AI解决方案。
 
 ## 2023-10
 
