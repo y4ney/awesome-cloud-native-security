@@ -2,13 +2,13 @@
 
 ## 2024-07
 
-30. 2024年中国网络安全市场全景图
+31. 2024年中国网络安全市场全景图
 
 - 📅 日期：2024-07-04
 - 📑 文件：[2024年中国网络安全市场全景图](./2024-07/2024年中国网络安全市场全景图.pdf)
 - 🔗 链接：<https://www.secrss.com/articles/67755>
 
-29. 云安全责任共担模型2024
+30. 云安全责任共担模型2024
 
 - 📅 日期：2024-07-03
 - 📑 文件：[云安全责任共担模型2024](./2024-07/云安全责任共担模型2024.pdf)
@@ -16,11 +16,19 @@
 
 ## 2024-04
 
-28. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+29. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
 - 🔗 链接：<https://arxiv.org/abs/2404.11107>
+
+## 2024-03
+
+28. "Cloud Native Artificial Intelligence Whitepaper" CNCF云原生AI白皮书
+
+- 📅 日期：2024-03-20
+- 📑 文件：[Cloud Native Artificial Intelligence Whitepaper](./2024-03/CLOUD%20NATIVE%20ARTIFICIAL%20INTELLIGENCE.pdf)
+- 🔗 链接：<https://www.cncf.io/reports/cloud-native-artificial-intelligence-whitepaper/>
 
 ## 2023-10
 
