@@ -4,6 +4,15 @@
 >
 > **一旦完成后内容基本不再变化的文档**。它们通常在首次创建和发布后不进行定期更新。
 
+## 2024-08
+
+41. CVE-2024-7646：Ingress-nginx注释验证绕过
+
+- 📅 日期：2024-08-16
+- 🔗 链接1：[K8s issue](https://github.com/kubernetes/kubernetes/issues/126744)
+- 🔗 链接2：[CVE-2024-7646: Ingress-NGINX Annotation Validation Bypass – A Deep Dive](https://securityboulevard.com/2024/08/cve-2024-7646-ingress-nginx-annotation-validation-bypass-a-deep-dive/)
+- 🔗 链接3：[CVE-2024-7646：Ingress-nginx注释验证绕过【高危】](https://mp.weixin.qq.com/s/heUTzB0clK0TP0bDGEunGw)
+
 ## 2024-07
 
 40. Kubernetes 历史：它如何征服云原生编排
