@@ -4,6 +4,11 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+14. Hacking The Cloud
+
+- 🔗 链接：<https://hackingthe.cloud/>
+- 💬 简介：Hacking the Cloud目的是为攻击测试的安全人员提供，在云原生渗透测试中使用的攻击/战术/技术的百科全书。他们的目标是与安全社区分享这些知识，以更好地保护云原生技术。均由志愿者自主提供，主题包括攻击性技术，工具，与云安全相关的知识等。
+
 13. TupleType/awesome-cicd-attacks
 
 - 🔗 链接：<https://github.com/TupleType/awesome-cicd-attacks>
