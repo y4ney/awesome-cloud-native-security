@@ -4,7 +4,41 @@
 >
 > **一旦完成后内容基本不再变化的文档**。它们通常在首次创建和发布后不进行定期更新。
 
+## 2024-08
+
+45. 深入探究 K8S Pod 安全策略与准入控制器：构建坚不可摧的容器安全防线
+
+- 📅 日期：2024-08-04
+- 🔗 链接：[深入探究 K8S Pod 安全策略与准入控制器：构建坚不可摧的容器安全防线（来自"WAKE UP技术"公众号）](https://mp.weixin.qq.com/s/HHGDJ_xtyNTcw0xTrWP7AA)
+
+44. ArtiPACKED：GitHub Actions Artifacts
+
+- 📅 日期：2024-08-13
+- 🔗 链接：[ArtiPACKED：GitHub Actions Artifacts](https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/)
+- 💬 简介：这篇博客分析了在GitHub Actions中由于竞态条件导致的漏洞，该漏洞可以让攻击者通过上传恶意工件来窃取敏感信息，比如访问令牌(如GitHub令牌和第三方云服务凭据)。这种攻击方式被称为“ArtiPACKED”。文章详细描述了这一攻击的工作原理、潜在的危害以及如何防范此类攻击。
+
+43. Grand Theft Actions: Abusing Self-Hosted GitHub Runners at Scale
+
+- 📅 日期：2024-08
+- 🔗 链接：<https://github.com/AdnaneKhan/ConferenceTalks/blob/main/DEFCON32_GrandTheftActions.pdf>
+- 🔗 链接：Gato-X：<https://github.com/AdnaneKhan/Gato-X>
+- 💬 简介：AdnanKhan和John Stawinski在DEF CON演讲中分享了他们一直在做的GitHub Action研究，他们已经发现了许多互联网规模的供应链安全漏洞，同时发布了Gato-X工具，以帮助其他安全研究人员大规模发现这些类型的漏洞。
+
+42. CVE-2024-7646：Ingress-nginx注释验证绕过
+
+- 📅 日期：2024-08-16
+- 🔗 链接1：[K8s issue](https://github.com/kubernetes/kubernetes/issues/126744)
+- 🔗 链接2：[CVE-2024-7646: Ingress-NGINX Annotation Validation Bypass – A Deep Dive](https://securityboulevard.com/2024/08/cve-2024-7646-ingress-nginx-annotation-validation-bypass-a-deep-dive/)
+- 🔗 链接3：[CVE-2024-7646：Ingress-nginx注释验证绕过【高危】](https://mp.weixin.qq.com/s/heUTzB0clK0TP0bDGEunGw)
+
 ## 2024-07
+
+41. 利用gitRepo volumes创建权限如何拿下K8s节点root权限
+
+- 📅 日期：2024-07
+- 🔗 链接1：[Sneaky write hook: git clone to root on k8s node](https://irsl.medium.com/sneaky-write-hook-git-clone-to-root-on-k8s-node-e38236205d54)
+- 🔗 链接2：[Fun With GitRepo Volumes](https://raesene.github.io/blog/2024/07/10/Fun-With-GitRepo-Volumes/)
+- 💬 简介：这两篇博客文章讨论了一个Kubernetes中未修补的安全问题，允许任何有权限创建gitRepo卷的用户以root用户身份在底层主机上执行代码。
 
 40. Kubernetes 历史：它如何征服云原生编排
 

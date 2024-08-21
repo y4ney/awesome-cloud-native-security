@@ -1,5 +1,20 @@
 # 开源工具
 
+25. GuardDog
+
+- 🔗 链接：https://securitylabs.datadoghq.com/articles/guarddog-2-0-release/
+- 💬 简介：Datadog安全实验室发布的GuardDog 2.0版本，这是一个开源项目，用于识别恶意的PyPI和npm软件包。
+
+24. aws-lint-iam-policies
+ 
+- 🔗 链接：https://github.com/welldone-cloud/aws-lint-iam-policies
+- 💬 简介：针对单个AWS帐户或AWS组织的一组成员帐户执行IAM策略linting和安全检查。
+
+23. XMGoat
+
+- 🔗 链接：https://github.com/XMCyber/XMGoat
+- 💬 简介：XM Goat是一款针对Azure的环境安全检测工具,XM Goat 由 XM Cyber Terraform 模板组成，可帮助您了解常见的 Azure 安全问题。每个模板都是一个用于安全技术学习的靶机环境，包含了一些严重的配置错误。在该工具的帮助下，广大研究人员可以更好地理解和学习针对Azure安全的相关知识和技术。
+
 22. valvals-operator
 
 - 🔗 链接：https://github.com/digitalis-io/vals-operator

@@ -20,12 +20,12 @@
 
 - 📖 [书籍（7）](./books/README.md)
 - 🛠️ [闭源工具（2）](./closed-source-tools/README.md)
-- 📚 [文库博客（13）](./dynamic-document/README.md)
+- 📚 [文库博客（14）](./dynamic-document/README.md)
 - 🏝 [靶场（13）](./labs/README.md)
-- 🔍 [开源工具(22)](./open-source-tools/README.md)
-- 📑 [论文报告（30）](./papers/README.md)
+- 🔍 [开源工具(25)](./open-source-tools/README.md)
+- 📑 [论文报告（31）](./papers/README.md)
 - 🥸 [演示文稿（13）](./slides/README.md)
-- 📜 [静态文档（40）](./static-documents/README.md)
+- 📜 [静态文档（45）](./static-documents/README.md)
 - 🌐 [公众号（3）](./wechat-public-account.md)
 - ⏰ [云原生会议（2）](./conference/README.md)
 

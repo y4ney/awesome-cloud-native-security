@@ -2,13 +2,13 @@
 
 ## 2024-07
 
-30. 2024年中国网络安全市场全景图
+31. 2024年中国网络安全市场全景图
 
 - 📅 日期：2024-07-04
 - 📑 文件：[2024年中国网络安全市场全景图](./2024-07/2024年中国网络安全市场全景图.pdf)
 - 🔗 链接：<https://www.secrss.com/articles/67755>
 
-29. 云安全责任共担模型2024
+30. 云安全责任共担模型2024
 
 - 📅 日期：2024-07-03
 - 📑 文件：[云安全责任共担模型2024](./2024-07/云安全责任共担模型2024.pdf)
@@ -16,11 +16,20 @@
 
 ## 2024-04
 
-28. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+29. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
 - 🔗 链接：<https://arxiv.org/abs/2404.11107>
+
+## 2024-03
+
+28. "Cloud Native Artificial Intelligence Whitepaper" CNCF云原生AI白皮书
+
+- 📅 日期：2024-03-20
+- 📑 文件：[Cloud Native Artificial Intelligence Whitepaper](./2024-03/CLOUD%20NATIVE%20ARTIFICIAL%20INTELLIGENCE.pdf)
+- 🔗 链接：<https://www.cncf.io/reports/cloud-native-artificial-intelligence-whitepaper/>
+- 💬 简介：来自CNCF的白皮书讨论了云原生技术与人工智能（AI/ML）之间的结合，强调了如何利用云原生架构来提升AI模型的开发、部署和管理效率。它探讨了云原生技术的优势，如可扩展性、弹性和自动化，以及如何将这些特性应用于AI工作负载。白皮书还介绍了一些最佳实践和案例研究，帮助企业在云环境中有效地实施AI解决方案。
 
 ## 2023-10
 
