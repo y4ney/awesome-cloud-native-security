@@ -6,6 +6,24 @@
 
 ## 2024-08
 
+45. 深入探究 K8S Pod 安全策略与准入控制器：构建坚不可摧的容器安全防线
+
+- 📅 日期：2024-08-04
+- 🔗 链接：[深入探究 K8S Pod 安全策略与准入控制器：构建坚不可摧的容器安全防线（来自"WAKE UP技术"公众号）](https://mp.weixin.qq.com/s/HHGDJ_xtyNTcw0xTrWP7AA)
+
+44. ArtiPACKED：GitHub Actions Artifacts
+
+- 📅 日期：2024-08-13
+- 🔗 链接：[ArtiPACKED：GitHub Actions Artifacts](https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/)
+- 💬 简介：这篇博客分析了在GitHub Actions中由于竞态条件导致的漏洞，该漏洞可以让攻击者通过上传恶意工件来窃取敏感信息，比如访问令牌(如GitHub令牌和第三方云服务凭据)。这种攻击方式被称为“ArtiPACKED”。文章详细描述了这一攻击的工作原理、潜在的危害以及如何防范此类攻击。
+
+43. Grand Theft Actions: Abusing Self-Hosted GitHub Runners at Scale
+
+- 📅 日期：2024-08
+- 🔗 链接：<https://github.com/AdnaneKhan/ConferenceTalks/blob/main/DEFCON32_GrandTheftActions.pdf>
+- 🔗 链接：Gato-X：<https://github.com/AdnaneKhan/Gato-X>
+- 💬 简介：AdnanKhan和John Stawinski在DEF CON演讲中分享了他们一直在做的GitHub Action研究，他们已经发现了许多互联网规模的供应链安全漏洞，同时发布了Gato-X工具，以帮助其他安全研究人员大规模发现这些类型的漏洞。
+
 42. CVE-2024-7646：Ingress-nginx注释验证绕过
 
 - 📅 日期：2024-08-16
