@@ -6,6 +6,9 @@
 
 ## 2024-08
 
+47. DataDog容器安全的系列文章
+- 🔗 链接：[container security fundamentals](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals)
+
 46. 针对云环境的大规模勒索攻击
     
 - 📅 日期：2024-08-15
