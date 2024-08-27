@@ -4,6 +4,10 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+18. Plerion云安全博客
+- 🔗 链接：<https://www.plerion.com/blog>
+- 💬 简介：
+
 17. Unit42威胁情报的云安全专题
 
 - 🔗 链接：<https://unit42.paloaltonetworks.com/category/cloud-cybersecurity-research/>
