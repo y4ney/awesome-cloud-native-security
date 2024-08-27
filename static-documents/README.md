@@ -6,6 +6,12 @@
 
 ## 2024-08
 
+46. 针对云环境的大规模勒索攻击
+    
+- 📅 日期：2024-08-15
+- 🔗 链接：[Leaked Environment Variables Allow Large-Scale Extortion Operation of Cloud Environments](https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/)
+- 💬 简介：这篇文章由Palo Alto Networks的Unit 42研究团队撰写，揭露了一个针对云环境的大规模勒索攻击。攻击者利用泄露的环境变量来访问敏感信息，并要求受害者支付赎金以避免数据泄露或服务中断。文章强调了安全配置云环境的重要性，建议企业定期审查和监控云基础设施的安全措施，包括访问控制和日志记录，以预防此类勒索攻击。文章还指出云安全漏洞是网络犯罪分子的一个主要攻击目标。
+
 45. 深入探究 K8S Pod 安全策略与准入控制器：构建坚不可摧的容器安全防线
 
 - 📅 日期：2024-08-04
