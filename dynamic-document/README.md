@@ -4,6 +4,16 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+16. Rhino Security Labs的云安全专题
+    
+- 🔗 链接：<https://rhinosecuritylabs.com/blog-technical/?category=cloud-security>
+- 💬 简介：Rhino Security Labs是一家顶级的渗透测试和安全评估公司，专注于云渗透测试（包括AWS、GCP、Azure）、网络渗透测试、Web应用程序渗透测试以及钓鱼攻击测试等。
+
+15. HackTricks Cloud:
+
+- 🔗 链接：<https://cloud.hacktricks.xyz/>
+- 💬 简介：在HackTricks Cloud可以找到所有与CI/CD（持续集成/交付）和云相关的黑客技巧、技术等内容。这些内容是作者[@ppiernacho](https://www.instagram.com/ppieranacho/)在CTF、现实环境、研究工作以及阅读研究报告和新闻学到的。 
+
 14. Hacking The Cloud
 
 - 🔗 链接：<https://hackingthe.cloud/>
