@@ -6,11 +6,12 @@
 
 ## 2024-08
 
-3. **DEFCON 32大会的云安全专题**
+3. **DEFCON 32的云安全专题**
 
 - 📅 日期：2024-08-09；2024-08-10；2024-08-11
 - 💬 简介：Cloud Village 是一个为对云安全领域感兴趣的研究人员提供的开放平台。计划组织讲座、工具演示、CTF和workshop，围绕云安全及其进展展开。不定期更新云安全相关会议的议程。
-- 会议议程：<https://dc32.cloud-village.org/>
+- ⏲️ 会议议程：<https://dc32.cloud-village.org/>
+- 🔗 DEFCON不同专题Village一览：<https://defcon.outel.org/dcwp/dc32/activities/villages-list/>
 
 ## 2024-06
 
