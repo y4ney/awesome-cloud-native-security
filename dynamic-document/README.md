@@ -4,6 +4,25 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+18. Plerion云安全博客
+- 🔗 链接：<https://www.plerion.com/blog>
+- 💬 简介：Plerion 博客专注于云安全话题，提供有关 AWS 安全性、漏洞管理和云基础设施最佳实践的见解和指导。博客文章讨论了特定的安全问题、潜在漏洞以及管理云环境的实用解决方案。
+
+17. Unit42威胁情报的云安全专题
+
+- 🔗 链接：<https://unit42.paloaltonetworks.com/category/cloud-cybersecurity-research/>
+- 💬 简介：Unit 42是Palo Alto Networks的威胁情报团队，专注于网络安全研究、威胁检测和响应。他们通过深入的分析、研究报告和威胁情报服务帮助企业和组织了解和应对网络攻击。Unit 42 的专家团队经常发布关于新型网络威胁、漏洞和攻击技术的报告，并为客户提供定制的安全解决方案和咨询服务，以增强全球网络安全防御能力。
+
+16. Rhino Security Labs的云安全专题
+    
+- 🔗 链接：<https://rhinosecuritylabs.com/blog-technical/?category=cloud-security>
+- 💬 简介：Rhino Security Labs是一家顶级的渗透测试和安全评估公司，专注于云渗透测试（包括AWS、GCP、Azure）、网络渗透测试、Web应用程序渗透测试以及钓鱼攻击测试等。
+
+15. HackTricks Cloud
+
+- 🔗 链接：<https://cloud.hacktricks.xyz/>
+- 💬 简介：在HackTricks Cloud可以找到所有与CI/CD（持续集成/交付）和云相关的黑客技巧、技术等内容。这些内容是作者[@ppiernacho](https://www.instagram.com/ppieranacho/)在CTF、现实环境、研究工作以及阅读研究报告和新闻学到的。 
+
 14. Hacking The Cloud
 
 - 🔗 链接：<https://hackingthe.cloud/>

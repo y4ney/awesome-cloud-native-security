@@ -1,5 +1,13 @@
 # 演示文稿
 
+## 2024-08
+
+14. Exploiting Common Vulnerabilities in AWS environments
+- 📅 日期：2024-08-09
+- 📑 文件：<https://docs.google.com/presentation/d/1-oYd-qv_b09gdAflJ3LSJzs1WQjWbjWHACHvGhKgBIo/edit>
+- 🔗 链接：DEFCON 32会议的云安全专题 <https://dc32.cloud-village.org/>
+- 💬 简介：作者Seth Art分享了在AWS环境下，攻击者通常如何突破云环境以及后期利用的方式。在大多数情况下，攻击者获得初步访问云环境的方式有三种：突破了云中的一个易受攻击的应用程序或服务、一个配置错误的云资源，或者一个具有云访问权限的用户。这是来自DEFCON 32会议的云安全专题众多议题中的一个分享。
+
 ## 2024-06
 
 13. 作为新手如何开展AWS安全研究  

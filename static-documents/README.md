@@ -6,6 +6,35 @@
 
 ## 2024-08
 
+51. 深入探究Kubernetes威胁模型
+- 🔗 链接：[A Deep Dive Into Kubernetes Threat Modeling](https://www.trendmicro.com/vinfo/us/security/news/security-technology/a-deep-dive-into-kubernetes-threat-modeling)
+- 💬 简介：这篇文章探讨了在Kubernetes环境中正确执行威胁建模所需的方面和注意事项。分析了与Kubernetes环境相关的安全风险，介绍了各种攻击面，例如API服务器、节点、控制平面组件等，并讨论了潜在的攻击手法和威胁场景。此外，还提供了一些最佳实践和防护策略，以帮助用户更好地保护Kubernetes集群。
+
+50. Kanister默认Kanister-Operator权限提升漏洞(CVE-2024-43403)
+Kanister Vulnerability Opens Door to Cluster-Level Privilege Escalation(CVE-2024-43403)
+- 🔗 链接：<https://cvefeed.io/vuln/detail/CVE-2024-43403>
+- 🔗 相关博客：<https://securityonline.info/cve-2024-43403-kanister-vulnerability-opens-door-to-cluster-level-privilege-escalation/>
+- 💬 简介：Kanister工具存在严重漏洞CVE-2024-43403，攻击者可利用该漏洞获取对Kubernetes集群的完全控制。Kanister是一个数据保护工作流管理工具。Kanister有一个名为default-kanister-operator的部署，它与一个名为edit的ClusterRole通过ClusterRoleBinding绑定。该“edit”ClusterRole是Kubernetes默认创建的ClusterRole之一，它具有对daemonset资源的创建/修补/更新操作权限，对serviceaccount/token资源的创建权限以及对serviceaccounts资源的模拟权限。恶意用户可以利用访问拥有此组件的工作节点来进行集群级别的权限提升。目前尚未记录受影响的产品的具体版本，需要进一步跟踪。
+
+49. K8s RBAC最佳安全实践
+- 🔗 链接：[K8s RBAC最佳安全实践](https://mp.weixin.qq.com/s/XuNx9WNKmCJEo_FS8lfwYw)
+- 💬 简介："K8s RBAC最佳安全实践"是来自字节跳动技术团队的文章。文章首先介绍了Kubernetes的认证与授权体系以及RBAC授权原理,然后通过实际案例展示RBAC管理不当可能导致的安全风险，并分享RBAC安全研发与运维的最佳实践，以及在字节跳动内部的安全防护和治理经验。
+
+48. K8s安全基础系列文章（DataDog）
+- 🔗 链接： [Kubernetes security fundamentals: Authorization](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-4/)
+- 🔗 作者视频：<https://www.youtube.com/watch?v=2setap7IgNc>
+- 💬 简介：Kubernetes安全基础——授权。来自Rory McCune发布在datadog的文章，这是他"Kubernetes安全基础"系列的第四篇文章。前三篇分别是Kubernetes安全基础简介、Kubernetes API安全、Kubernetes认证；可以从第一篇开始阅读学习。在youtube上也有他的分享。
+
+47. 容器安全的系列文章（DataDog）
+- 🔗 链接：[container security fundamentals](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals)
+- 💬 简介：同样是来自Rory McCune发布在datadog的系列文章，“容器安全基础”系列共有6篇文章。
+
+46. 针对云环境的大规模勒索攻击
+    
+- 📅 日期：2024-08-15
+- 🔗 链接：[Leaked Environment Variables Allow Large-Scale Extortion Operation of Cloud Environments](https://unit42.paloaltonetworks.com/large-scale-cloud-extortion-operation/)
+- 💬 简介：这篇文章由Palo Alto Networks的Unit 42研究团队撰写，揭露了一个针对云环境的大规模勒索攻击。攻击者利用泄露的环境变量来访问敏感信息，并要求受害者支付赎金以避免数据泄露或服务中断。文章强调了安全配置云环境的重要性，建议企业定期审查和监控云基础设施的安全措施，包括访问控制和日志记录，以预防此类勒索攻击。文章还指出云安全漏洞是网络犯罪分子的一个主要攻击目标。
+
 45. 深入探究 K8S Pod 安全策略与准入控制器：构建坚不可摧的容器安全防线
 
 - 📅 日期：2024-08-04
