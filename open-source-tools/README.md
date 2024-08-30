@@ -1,8 +1,8 @@
 # 开源工具
 
-27. 
-- 🔗 链接：
-- 💬 简介：
+27. PANIX
+- 🔗 链接：https://github.com/Aegrah/PANIX
+- 💬 简介：PANIX是可定制的Linux持久化工具，用于安全研究和检测。
 
 26. Ransomware-Tool-Matrix
 
