@@ -6,6 +6,10 @@
 
 ## 2024-08
 
+53. Linux持久化攻击及检测手段
+- 🔗 链接：[Linux Detection Engineering -  A primer on persistence mechanisms](https://www.elastic.co/security-labs/primer-on-persistence-mechanisms)
+- 💬 简介：这篇文章主要介绍了攻击者如何在Linux系统上建立持久化攻击以及如何有效检测这些攻击手段。文章前传：[使用Auditd进行Linux检测](https://www.elastic.co/security-labs/linux-detection-engineering-with-auditd)
+
 52. ShinyHunters勒索软件的探究（针对AWS进行攻击）
 - 🔗 链接：[Bling Libra’s Tactical Evolution: The Threat Actor Group Behind ShinyHunters Ransomware](https://unit42.paloaltonetworks.com/shinyhunters-ransomware-extortion/)
 - 💬 简介：这篇文章探讨了一个名为 ShinyHunters 的黑客组织，他们通过勒索软件和数据泄露来实施勒索。该组织以入侵多个公司系统、窃取敏感数据为目标，然后威胁公开这些数据以勒索赎金。文章分析了 ShinyHunters 的攻击策略和行为模式，并提出了一些安全建议，帮助企业防范此类攻击，保护自身数据和系统安全。
