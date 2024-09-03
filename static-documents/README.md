@@ -124,6 +124,11 @@ Kanister Vulnerability Opens Door to Cluster-Level Privilege Escalation(CVE-2024
 
 ## 2024-06
 
+34. Reverse Engineering eBPF Programs: A Deep Dive
+- 📅 日期：2024-06-25
+- 🔗 链接：[Reverse engineering eBPF programs](https://www.armosec.io/blog/ebpf-reverse-engineering-programs/)
+- 💬 简介：介绍了eBPF技术在增强Kubernetes安全性方面的重要性，深入剖析了eBPF的内部工作机制和用法
+
 33. K8s日志指南
 
 - 📅 日期：2024-06-01  
