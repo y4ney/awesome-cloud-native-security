@@ -25,7 +25,7 @@
 - 🔍 [开源工具（27）](./open-source-tools/README.md)
 - 📑 [论文报告（31）](./papers/README.md)
 - 🥸 [演示文稿（14）](./slides/README.md)
-- 📜 [静态文档（51）](./static-documents/README.md)
+- 📜 [静态文档（54）](./static-documents/README.md)
 - 🌐 [公众号（3）](./wechat-public-account.md)
 - ⏰ [云原生会议（3）](./conference/README.md)
 
