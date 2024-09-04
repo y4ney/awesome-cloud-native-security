@@ -8,7 +8,7 @@
 
 56. ECS任务元数据证书获取的新视角
 - 🔗 链接：[A Fresh Perspective on Exfiltrating ECS Task Metadata Credentials](https://saransh-rana.gitbook.io/aboutme/a-fresh-perspective-on-exfiltrating-ecs-task-metadata-credentials)
-- 💬 简介：用非常简单的术语列出了攻击者登录到运行ECS任务的ec2主机之后的时间内，如果没有及时发现攻击者后渗透会很容易和自动化。Saransh在文章的最后给出了一个脚本，用于收集和提取任务凭据，这对蓝色和红色团队成员都很有用。
+- 💬 简介：用非常简单的术语列出了攻击者登录到运行ECS任务的ec2主机之后的时间内，如果没有及时发现攻击者后渗透会很容易和自动化。Saransh在文章的最后给出了一个脚本，用于收集和提取任务凭据，这对蓝队和红队成员都很有用。
 
 55. AWS安全检测工程系列
 - 🔗 链接：[My Methodology to AWS Detection Engineering (Part 1: Object Selection)](https://chesterlebron.blogspot.com/2024/08/my-methodology-to-aws-detection-engineering-part-1.html)
