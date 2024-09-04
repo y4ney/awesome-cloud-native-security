@@ -6,6 +6,10 @@
 
 ## 2024-08
 
+57. SeamlessPass: Leveraging Kerberos Tickets to Access the Cloud
+- 🔗 链接：[SeamlessPass: Leveraging Kerberos Tickets to Access the Cloud](https://malcrove.com/seamlesspass-leveraging-kerberos-tickets-to-access-the-cloud/)
+- 💬 简介：介绍了一个名为SeamlessPass的工具，它利用微软的无缝单点登录（Seamless SSO）功能，通过使用本地Active Directory Kerberos票据来获取Microsoft 365服务的访问令牌，适用于红队场景。
+
 56. ECS任务元数据证书获取的新视角
 - 🔗 链接：[A Fresh Perspective on Exfiltrating ECS Task Metadata Credentials](https://saransh-rana.gitbook.io/aboutme/a-fresh-perspective-on-exfiltrating-ecs-task-metadata-credentials)
 - 💬 简介：用非常简单的术语列出了攻击者登录到运行ECS任务的ec2主机之后的时间内，如果没有及时发现攻击者后渗透会很容易和自动化。Saransh在文章的最后给出了一个脚本，用于收集和提取任务凭据，这对蓝队和红队成员都很有用。
