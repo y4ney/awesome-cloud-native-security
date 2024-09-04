@@ -6,6 +6,14 @@
 
 ## 2024-08
 
+56. ECS任务元数据证书获取的新视角
+- 🔗 链接：[A Fresh Perspective on Exfiltrating ECS Task Metadata Credentials](https://saransh-rana.gitbook.io/aboutme/a-fresh-perspective-on-exfiltrating-ecs-task-metadata-credentials)
+- 💬 简介：用非常简单的术语列出了攻击者登录到运行ECS任务的ec2主机之后的时间内，如果没有及时发现攻击者后渗透会很容易和自动化。Saransh在文章的最后给出了一个脚本，用于收集和提取任务凭据，这对蓝色和红色团队成员都很有用。
+
+55. AWS安全检测工程系列
+- 🔗 链接：[My Methodology to AWS Detection Engineering (Part 1: Object Selection)](https://chesterlebron.blogspot.com/2024/08/my-methodology-to-aws-detection-engineering-part-1.html)
+- 💬 简介：Chester Le Bron介绍了一些列AWS攻击检测的方法，值得参考。
+
 54. CVE-2024-43044的分析：Jenkins通过agent文件读取到RCE
 - 🔗 链接：[Analysis of CVE-2024-43044 — From file read to RCE in Jenkins through agents](https://blog.convisoappsec.com/en/analysis-of-cve-2024-43044/)
 - 💬 简介：2024年8月7日，Jenkins 官方披露 CVE-2024-43044 Jenkins agent connections 文件读取漏洞。Jenkins 受影响版本中，攻击者在获取agent权限后，可利用agent功能与Jenkins交互，从而读取 Jenkins 控制器文件系统上的任意文件，并结合其他功能等可能导致任意代码执行。这篇博客分析了详细的漏洞利用过程。
