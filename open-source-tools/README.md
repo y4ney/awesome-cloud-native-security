@@ -1,5 +1,14 @@
 # 开源工具
 
+27. PANIX
+- 🔗 链接：https://github.com/Aegrah/PANIX
+- 💬 简介：PANIX是可定制的Linux持久化工具，用于安全研究和检测。
+
+26. Ransomware-Tool-Matrix
+
+- 🔗 链接：https://github.com/BushidoUK/Ransomware-Tool-Matrix
+- 💬 简介：勒索软件工具矩阵(Ransomware-Tool-Matrix)是一个全面的资源，它揭示了勒索软件和勒索团伙常用的战术，技术和程序（TTP）包含多个勒索团伙使用的所有工具，由[@BushidoToken](https://x.com/BushidoToken)提供。
+
 25. GuardDog
 
 - 🔗 链接：https://securitylabs.datadoghq.com/articles/guarddog-2-0-release/

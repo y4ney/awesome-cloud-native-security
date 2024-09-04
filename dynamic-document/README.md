@@ -4,6 +4,14 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+20. saransh-rana：关于AWS云安全的研究博客
+- 🔗 链接：<https://saransh-rana.gitbook.io/aboutme>
+- 💬 简介：saransh-rana是Cred的云安全研究院，他的博客不定期更新关于AWS安全的一些攻击检测内容。
+
+19. ARMO云安全博客
+- 🔗 链接：<https://www.armosec.io/blog/>
+- 💬 简介：ARMO 是 Kubescape 背后的公司，正在构建首个端到端的开源 Kubernetes 安全平台，基于开源技术专为DevOps设计。专注于基于开源的 CI/CD 和 Kubernetes 安全，帮助组织从代码到生产环境实现全面合规和安全。
+
 18. Plerion云安全博客
 - 🔗 链接：<https://www.plerion.com/blog>
 - 💬 简介：Plerion 博客专注于云安全话题，提供有关 AWS 安全性、漏洞管理和云基础设施最佳实践的见解和指导。博客文章讨论了特定的安全问题、潜在漏洞以及管理云环境的实用解决方案。

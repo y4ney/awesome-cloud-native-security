@@ -6,6 +6,34 @@
 
 ## 2024-08
 
+58. Binary secret scanning helped us prevent (what might have been) the worst supply chain attack you can imagine
+- 🔗 链接：<https://jfrog.com/blog/leaked-pypi-secret-token-revealed-in-binary-preventing-suppy-chain-attack/>
+- 💬 简介：JFrog安全研究团队通过二进制扫描发现并报告了一个泄露的访问令牌，该令牌具有管理员权限，可以访问Python、PyPI和Python软件基金会的GitHub仓库。这个令牌被泄露在Docker Hub托管的一个公共Docker容器中。JFrog的报告给出了对二进制扫描和Secret检测的一些建议。
+
+57. SeamlessPass: Leveraging Kerberos Tickets to Access the Cloud
+- 🔗 链接：[SeamlessPass: Leveraging Kerberos Tickets to Access the Cloud](https://malcrove.com/seamlesspass-leveraging-kerberos-tickets-to-access-the-cloud/)
+- 💬 简介：介绍了一个名为SeamlessPass的工具，它利用微软的无缝单点登录（Seamless SSO）功能，通过使用本地Active Directory Kerberos票据来获取Microsoft 365服务的访问令牌，适用于红队场景。
+
+56. ECS任务元数据证书获取的新视角
+- 🔗 链接：[A Fresh Perspective on Exfiltrating ECS Task Metadata Credentials](https://saransh-rana.gitbook.io/aboutme/a-fresh-perspective-on-exfiltrating-ecs-task-metadata-credentials)
+- 💬 简介：用非常简单的术语列出了攻击者登录到运行ECS任务的ec2主机之后的时间内，如果没有及时发现攻击者后渗透会很容易和自动化。Saransh在文章的最后给出了一个脚本，用于收集和提取任务凭据，这对蓝队和红队成员都很有用。
+
+55. AWS安全检测工程系列
+- 🔗 链接：[My Methodology to AWS Detection Engineering (Part 1: Object Selection)](https://chesterlebron.blogspot.com/2024/08/my-methodology-to-aws-detection-engineering-part-1.html)
+- 💬 简介：Chester Le Bron介绍了一些列AWS攻击检测的方法，值得参考。
+
+54. CVE-2024-43044的分析：Jenkins通过agent文件读取到RCE
+- 🔗 链接：[Analysis of CVE-2024-43044 — From file read to RCE in Jenkins through agents](https://blog.convisoappsec.com/en/analysis-of-cve-2024-43044/)
+- 💬 简介：2024年8月7日，Jenkins 官方披露 CVE-2024-43044 Jenkins agent connections 文件读取漏洞。Jenkins 受影响版本中，攻击者在获取agent权限后，可利用agent功能与Jenkins交互，从而读取 Jenkins 控制器文件系统上的任意文件，并结合其他功能等可能导致任意代码执行。这篇博客分析了详细的漏洞利用过程。
+
+53. Linux持久化攻击及检测手段
+- 🔗 链接：[Linux Detection Engineering -  A primer on persistence mechanisms](https://www.elastic.co/security-labs/primer-on-persistence-mechanisms)
+- 💬 简介：来自elastic security labs博客，这篇文章主要介绍了攻击者如何在Linux系统上建立持久化攻击以及如何有效检测这些攻击手段。文章前传：[使用Auditd进行Linux检测](https://www.elastic.co/security-labs/linux-detection-engineering-with-auditd)
+
+52. ShinyHunters勒索软件的探究（针对AWS进行攻击）
+- 🔗 链接：[Bling Libra’s Tactical Evolution: The Threat Actor Group Behind ShinyHunters Ransomware](https://unit42.paloaltonetworks.com/shinyhunters-ransomware-extortion/)
+- 💬 简介：这篇文章探讨了一个名为 ShinyHunters 的黑客组织，他们通过勒索软件和数据泄露来实施勒索。该组织以入侵多个公司系统、窃取敏感数据为目标，然后威胁公开这些数据以勒索赎金。文章分析了 ShinyHunters 的攻击策略和行为模式，并提出了一些安全建议，帮助企业防范此类攻击，保护自身数据和系统安全。
+
 51. 深入探究Kubernetes威胁模型
 - 🔗 链接：[A Deep Dive Into Kubernetes Threat Modeling](https://www.trendmicro.com/vinfo/us/security/news/security-technology/a-deep-dive-into-kubernetes-threat-modeling)
 - 💬 简介：这篇文章探讨了在Kubernetes环境中正确执行威胁建模所需的方面和注意事项。分析了与Kubernetes环境相关的安全风险，介绍了各种攻击面，例如API服务器、节点、控制平面组件等，并讨论了潜在的攻击手法和威胁场景。此外，还提供了一些最佳实践和防护策略，以帮助用户更好地保护Kubernetes集群。
@@ -111,6 +139,11 @@ Kanister Vulnerability Opens Door to Cluster-Level Privilege Escalation(CVE-2024
 - 🔗 链接：[Kickstart Your Kubernetes Security](https://cloudnativenow.com/social-facebook/kickstart-your-kubernetes-security/)
 
 ## 2024-06
+
+34. Reverse Engineering eBPF Programs: A Deep Dive
+- 📅 日期：2024-06-25
+- 🔗 链接：[Reverse engineering eBPF programs](https://www.armosec.io/blog/ebpf-reverse-engineering-programs/)
+- 💬 简介：介绍了eBPF技术在增强Kubernetes安全性方面的重要性，深入剖析了eBPF的内部工作机制和用法
 
 33. K8s日志指南
 
