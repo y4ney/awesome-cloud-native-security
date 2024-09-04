@@ -6,6 +6,10 @@
 
 ## 2024-08
 
+58. Binary secret scanning helped us prevent (what might have been) the worst supply chain attack you can imagine
+- 🔗 链接：<https://jfrog.com/blog/leaked-pypi-secret-token-revealed-in-binary-preventing-suppy-chain-attack/>
+- 💬 简介：JFrog安全研究团队通过二进制扫描发现并报告了一个泄露的访问令牌，该令牌具有管理员权限，可以访问Python、PyPI和Python软件基金会的GitHub仓库。这个令牌被泄露在Docker Hub托管的一个公共Docker容器中。JFrog的报告给出了对二进制扫描和Secret检测的一些建议。
+
 57. SeamlessPass: Leveraging Kerberos Tickets to Access the Cloud
 - 🔗 链接：[SeamlessPass: Leveraging Kerberos Tickets to Access the Cloud](https://malcrove.com/seamlesspass-leveraging-kerberos-tickets-to-access-the-cloud/)
 - 💬 简介：介绍了一个名为SeamlessPass的工具，它利用微软的无缝单点登录（Seamless SSO）功能，通过使用本地Active Directory Kerberos票据来获取Microsoft 365服务的访问令牌，适用于红队场景。
