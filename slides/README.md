@@ -2,6 +2,11 @@
 
 ## 2024-08
 
+15. 加强容器安全性：共同的旅程｜KC24
+- 📅 日期：2024-08-21-23
+- 🔗 链接：<https://mp.weixin.qq.com/s/arrxfJOnctaGb4eoWFR9pQ>
+- 💬 简介：Strengthening Container Security: A Collaborative Journey | 加强容器安全性：共同的旅程 - Yi Zha, Microsoft & Beltran Rueda Borrego, VMware (part of Broadcom)
+
 14. Exploiting Common Vulnerabilities in AWS environments
 - 📅 日期：2024-08-09
 - 📑 文件：<https://docs.google.com/presentation/d/1-oYd-qv_b09gdAflJ3LSJzs1WQjWbjWHACHvGhKgBIo/edit>
