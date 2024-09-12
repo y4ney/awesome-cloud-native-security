@@ -6,6 +6,7 @@
 - 📅 日期：2024-08-21-23
 - 🔗 链接：<https://mp.weixin.qq.com/s/arrxfJOnctaGb4eoWFR9pQ>
 - 💬 简介：Strengthening Container Security: A Collaborative Journey | 加强容器安全性：共同的旅程 - Yi Zha, Microsoft & Beltran Rueda Borrego, VMware (part of Broadcom)
+- 💬 简介：确保容器镜像的完整性和真实性对于保护容器供应链至关重要。随着开发人员越来越多地使用来自外部来源的镜像，一些问题浮出水面：我们如何验证这些镜像来自可信赖的供应商？我们如何确保它们自创建以来没有被篡改？在这场演讲中，您将从VMware Bitnami的实际经验中学习，他们与Notary项目社区合作实施了镜像签名和验证。Bitnami将向您展示他们如何使用Notary项目签名来确保来自Docker Hub的镜像的完整性和真实性。不要错过这个机会，在您的CI/CD流水线和Kubernetes部署中通过Notary项目获得容器安全的实用见解！此外，我们将探讨未来的增强功能，包括证明支持，使用户能够从各种角度验证镜像，如来源、漏洞评估和软件合规性。
 
 14. Exploiting Common Vulnerabilities in AWS environments
 - 📅 日期：2024-08-09
