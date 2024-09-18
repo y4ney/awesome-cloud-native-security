@@ -51,7 +51,7 @@ Kanister Vulnerability Opens Door to Cluster-Level Privilege Escalation(CVE-2024
 48. K8s安全基础系列文章（DataDog）
 - 🔗 链接： [Kubernetes security fundamentals: Authorization](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-4/)
 - 🔗 作者视频：<https://www.youtube.com/watch?v=2setap7IgNc>
-- 💬 简介：Kubernetes安全基础——授权。来自Rory McCune发布在datadog的文章，这是他"Kubernetes安全基础"系列的第四篇文章。前三篇分别是Kubernetes安全基础简介、Kubernetes API安全、Kubernetes认证；可以从第一篇开始阅读学习。在youtube上也有他的分享。
+- 💬 简介：Kubernetes安全基础——授权。来自Rory McCune发布在datadog的文章，这是他"Kubernetes安全基础"系列的第四篇文章。前三篇分别是Kubernetes安全基础简介、Kubernetes API安全、Kubernetes认证；可以从第一篇开始阅读学习。在youtube上也有他的分享。更新第5篇：[Kubernetes安全基础——准入控制](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-5/)
 
 47. 容器安全的系列文章（DataDog）
 - 🔗 链接：[container security fundamentals](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals)
