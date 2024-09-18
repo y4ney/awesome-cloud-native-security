@@ -2,7 +2,7 @@
 
 28. bomctl
 - 🔗 链接：https://github.com/bomctl/bomctl
-- 💬 简介：面向开发者的简单SBOM管理，参考配套博客文章[Simplify SBOM Management for Developers: Introducing Bomctl](https://openssf.org/blog/2024/09/05/simplify-sbom-management-for-developers-introducing-bomctl/)
+- 💬 简介：面向开发者的格式无关的SBOM工具，参考配套博客文章[Simplify SBOM Management for Developers: Introducing Bomctl](https://openssf.org/blog/2024/09/05/simplify-sbom-management-for-developers-introducing-bomctl/)
 
 27. PANIX
 - 🔗 链接：https://github.com/Aegrah/PANIX
