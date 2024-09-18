@@ -4,6 +4,12 @@
 >
 > **一旦完成后内容基本不再变化的文档**。它们通常在首次创建和发布后不进行定期更新。
 
+## 2024-09
+
+59. Noisy Neighbor Detection with eBPF——基于eBPF的噪声邻居检测
+- 🔗 链接：<https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd>
+- 💬 简介：本文讨论Netflix使用eBPF来检测云环境中的噪声邻居。解释了他们定制的解决方案，用于识别CPU占用进程并减轻其对共享资源的影响，提高整体系统性能和可靠性。
+
 ## 2024-08
 
 58. Binary secret scanning helped us prevent (what might have been) the worst supply chain attack you can imagine
