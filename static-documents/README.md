@@ -6,7 +6,11 @@
 
 ## 2024-09
 
-59. Noisy Neighbor Detection with eBPF——基于eBPF的噪声邻居检测
+60. Kubernetes CRD generation pitfalls（需要重新写简介）
+- 🔗 链接：<https://ahmet.im/blog/crd-generation-pitfalls/>
+- 💬 简介：一篇关于陷阱的博客，学习了多年来使用 "controller-gen" 生成Kubernetes自定义资源，以及如何使用它进行更严格的验证和默认。
+
+59. Noisy Neighbor Detection with eBPF——基于eBPF的噪声邻居检测（重新写简介）
 - 🔗 链接：<https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd>
 - 💬 简介：本文讨论Netflix使用eBPF来检测云环境中的噪声邻居。解释了他们定制的解决方案，用于识别CPU占用进程并减轻其对共享资源的影响，提高整体系统性能和可靠性。
 
