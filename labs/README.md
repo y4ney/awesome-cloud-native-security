@@ -75,7 +75,7 @@
 - 🔗 链接：<https://pwnedlabs.io/>
 - 💬 简介：AWS公有云安全靶场，有官方配套题解，除了攻还有防，很适合入门和补缺～每个靶场有相应的场景和 RealWorld 描述，也把像 BlackHat 议题的点做成靶场，整体质量很高。来自@tari大佬的推荐，他整理的思维导图知识点很值得参考：<https://tari.moe/2024/pwnedlabs-aws-free.html>
 
-## 服务器端综合
+## 一些综合平台
 
 14. iximiuz Labs
 
