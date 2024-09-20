@@ -77,4 +77,7 @@
 
 ## 服务器端综合
 
-14. https://labs.iximiuz.com/
+14. iximiuz Labs
+
+- 🔗 链接：<https://labs.iximiuz.com/>
+- 💬 简介：iximiuz Labs是由[Ivan Velichko](https://iximiuz.com/about)创建的独立学习平台。主要包括Linux、网络、Docker、K8s以及DevOps，SRE相关知识。
