@@ -1,5 +1,11 @@
 # 演示文稿
 
+## 2024-09
+
+16. How to 10X Your Cloud Security (Without the Series D)
+- 🔗 链接：<https://speakerdeck.com/ramimac/how-to-10x-your-cloud-security-without-the-series-d>
+- 💬 简介：Rami McCarthy 在fwd cloudsec EU会议上的精彩演讲，他对构建安全程序、不变量、漏洞和资产管理、身份和访问管理、检测工程、部署等方面的有用资源和想法。作者总结提炼了将云安全项目规模化的可行指导，这些指导来自众多的演讲和博客文章。将快速浏览云安全是什么，如何更有效地进行云安全工作，以及未来可能的发展方向。演讲结束也会获得实用的要点，以及一份详尽的参考文献。
+
 ## 2024-08
 
 15. 加强容器安全性：共同的旅程｜KC24
