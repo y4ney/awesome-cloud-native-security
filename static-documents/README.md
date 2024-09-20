@@ -6,6 +6,10 @@
 
 ## 2024-09
 
+61.  The Cloud is Darker and More Full of Terrors
+- 🔗 链接：<https://www.chrisfarris.com/post/sect2024/>
+- 💬 简介：Chris Farris在2024年Sec-T会议上的演讲总结，主题是公共云服务的安全问题。当前IT行业在使用公共云服务时存在根本性的不安全问题。作者通过多个案例分析，强调了云服务提供商和用户在云安全方面的责任和挑战。
+
 60. Kubernetes CRD generation pitfalls（需要重新写简介）
 - 🔗 链接：<https://ahmet.im/blog/crd-generation-pitfalls/>
 - 💬 简介：一篇关于陷阱的博客，学习了多年来使用 "controller-gen" 生成Kubernetes自定义资源，以及如何使用它进行更严格的验证和默认。
