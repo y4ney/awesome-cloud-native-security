@@ -4,7 +4,29 @@
 >
 > **一旦完成后内容基本不再变化的文档**。它们通常在首次创建和发布后不进行定期更新。
 
+## 2024-09
+
+63. Ransomware in the Cloud: Scattered Spider Targeting Insurance and Financial Industries
+- 🔗 链接：<https://blog.eclecticiq.com/ransomware-in-the-cloud-scattered-spider-targeting-insurance-and-financial-industries>
+- 💬 简介：这篇文章讨论了名为 Scattered Spider 的勒索软件组织，如何专门针对云环境中的金融和保险行业进行攻击。攻击者主要使用社工手段获取员工账户的访问权限，然后利用合法工具在网络中横向移动，执行勒索软件攻击。文章还强调了组织在防范此类威胁时，应加强对云基础设施的保护，并提高员工的安全意识。
+
+62.  The Cloud is Darker and More Full of Terrors
+- 🔗 链接：<https://www.chrisfarris.com/post/sect2024/>
+- 💬 简介：Chris Farris在2024年Sec-T会议上的演讲总结，主题是公共云服务的安全问题。当前IT行业在使用公共云服务时存在根本性的不安全问题。作者通过多个案例分析，强调了云服务提供商和用户在云安全方面的责任和挑战。
+
+61. Kubernetes CRD generation pitfalls（需要重新写简介）
+- 🔗 链接：<https://ahmet.im/blog/crd-generation-pitfalls/>
+- 💬 简介：一篇关于陷阱的博客，学习了多年来使用 "controller-gen" 生成Kubernetes自定义资源，以及如何使用它进行更严格的验证和默认。
+
+60. Noisy Neighbor Detection with eBPF——基于eBPF的噪声邻居检测（重新写简介）
+- 🔗 链接：<https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd>
+- 💬 简介：本文讨论Netflix使用eBPF来检测云环境中的噪声邻居。解释了他们定制的解决方案，用于识别CPU占用进程并减轻其对共享资源的影响，提高整体系统性能和可靠性。
+
 ## 2024-08
+
+59. How Container Networking Works: a Docker Bridge Network From Scratch：
+- 🔗 链接：<https://labs.iximiuz.com/tutorials/container-networking-from-scratch>
+- 💬 简介：这篇是关于如何从头开始构建容器网络的详细教程，特别是单主机容器网络。作者通过逐步指导读者创建和配置网络环境，解释了容器网络的工作原理。
 
 58. Binary secret scanning helped us prevent (what might have been) the worst supply chain attack you can imagine
 - 🔗 链接：<https://jfrog.com/blog/leaked-pypi-secret-token-revealed-in-binary-preventing-suppy-chain-attack/>
@@ -51,7 +73,7 @@ Kanister Vulnerability Opens Door to Cluster-Level Privilege Escalation(CVE-2024
 48. K8s安全基础系列文章（DataDog）
 - 🔗 链接： [Kubernetes security fundamentals: Authorization](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-4/)
 - 🔗 作者视频：<https://www.youtube.com/watch?v=2setap7IgNc>
-- 💬 简介：Kubernetes安全基础——授权。来自Rory McCune发布在datadog的文章，这是他"Kubernetes安全基础"系列的第四篇文章。前三篇分别是Kubernetes安全基础简介、Kubernetes API安全、Kubernetes认证；可以从第一篇开始阅读学习。在youtube上也有他的分享。
+- 💬 简介：Kubernetes安全基础——授权。来自Rory McCune发布在datadog的文章，这是他"Kubernetes安全基础"系列的第四篇文章。前三篇分别是Kubernetes安全基础简介、Kubernetes API安全、Kubernetes认证；可以从第一篇开始阅读学习。在youtube上也有他的分享。更新第5篇：[Kubernetes安全基础——准入控制](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-5/)
 
 47. 容器安全的系列文章（DataDog）
 - 🔗 链接：[container security fundamentals](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals)

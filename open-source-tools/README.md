@@ -1,5 +1,13 @@
 # 开源工具
 
+29. 1Password SDKs
+- 🔗 链接：https://github.com/1Password/onepassword-sdk-python
+- 💬 简介：1Password SDK 是一套软件开发工具包，它允许开发者构建能够以编程方式访问存储在1Password中的Secrets信息（如密码、API密钥等）的集成。支持的语言有Go、JavaScript、Python。
+
+28. bomctl
+- 🔗 链接：https://github.com/bomctl/bomctl
+- 💬 简介：面向开发者的格式无关的SBOM工具，参考配套博客文章[Simplify SBOM Management for Developers: Introducing Bomctl](https://openssf.org/blog/2024/09/05/simplify-sbom-management-for-developers-introducing-bomctl/)
+
 27. PANIX
 - 🔗 链接：https://github.com/Aegrah/PANIX
 - 💬 简介：PANIX是可定制的Linux持久化工具，用于安全研究和检测。

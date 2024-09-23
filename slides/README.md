@@ -1,6 +1,18 @@
 # 演示文稿
 
+## 2024-09
+
+16. How to 10X Your Cloud Security (Without the Series D)
+- 🔗 链接：<https://speakerdeck.com/ramimac/how-to-10x-your-cloud-security-without-the-series-d>
+- 💬 简介：Rami McCarthy 在fwd cloudsec EU会议上的精彩演讲，他对构建安全程序、不变量、漏洞和资产管理、身份和访问管理、检测工程、部署等方面的有用资源和想法。作者总结提炼了将云安全项目规模化的可行指导，这些指导来自众多的演讲和博客文章。将快速浏览云安全是什么，如何更有效地进行云安全工作，以及未来可能的发展方向。演讲结束也会获得实用的要点，以及一份详尽的参考文献。
+
 ## 2024-08
+
+15. 加强容器安全性：共同的旅程｜KC24
+- 📅 日期：2024-08-21-23
+- 🔗 链接：<https://mp.weixin.qq.com/s/arrxfJOnctaGb4eoWFR9pQ>
+- 💬 简介：Strengthening Container Security: A Collaborative Journey | 加强容器安全性：共同的旅程 - Yi Zha, Microsoft & Beltran Rueda Borrego, VMware (part of Broadcom)
+- 💬 简介：确保容器镜像的完整性和真实性对于保护容器供应链至关重要。随着开发人员越来越多地使用来自外部来源的镜像，一些问题浮出水面：我们如何验证这些镜像来自可信赖的供应商？我们如何确保它们自创建以来没有被篡改？在这场演讲中，您将从VMware Bitnami的实际经验中学习，他们与Notary项目社区合作实施了镜像签名和验证。Bitnami将向您展示他们如何使用Notary项目签名来确保来自Docker Hub的镜像的完整性和真实性。不要错过这个机会，在您的CI/CD流水线和Kubernetes部署中通过Notary项目获得容器安全的实用见解！此外，我们将探讨未来的增强功能，包括证明支持，使用户能够从各种角度验证镜像，如来源、漏洞评估和软件合规性。
 
 14. Exploiting Common Vulnerabilities in AWS environments
 - 📅 日期：2024-08-09

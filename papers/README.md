@@ -1,5 +1,13 @@
 # 论文报告
 
+## 2024-09
+
+33. Standardizing Privileged Access Architecture for Multi-Cloud（标准化多云访问架构）
+- 📅 日期：2024-09-12
+- 📑 文件：[Standardizing Privileged Access Architecture for Multi-Cloud](./2024-09/standardizing-privileged-access-architecture-for-multi-cloud.pdf)
+- 🔗 链接：<https://services.google.com/fh/files/misc/standardizing-privileged-access-architecture-for-multi-cloud.pdf>
+- 简介: [来自Mandiant的文章，在现代基于云的网络攻击时代保护多云资源](https://cloud.google.com/blog/topics/threat-intelligence/protecting-multi-cloud-resources-modern-cyberattacks)；此白皮书探讨了与多云环境相关的关键风险，并提供了一个实用的框架来建立强大的安全态势。这篇白皮书深入研究了管理不同云身份、角色和访问控制模型的复杂性，强调了错误配置和分散的安全实践所带来的漏洞。此外，本文还研究了Mandiant观察到的真实攻击场景，展示了威胁行为者如何利用这些弱点来破坏敏感数据，破坏运营并获得未经授权的控制权。
+
 ## 2024-07
 
 32. 2024年中国网络安全市场全景图
