@@ -6,11 +6,11 @@
 
 ## 2024-09
 
-63. Noisy Neighbor Detection with eBPF——基于eBPF的噪声邻居检测（重新写简介）
+63. The Cloud is Darker and More Full of Terrors
 
-- 📅 日期：2024-09-11
-- 🔗 链接：<https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd>
-- 💬 简介：本文讨论Netflix使用eBPF来检测云环境中的噪声邻居。解释了他们定制的解决方案，用于识别CPU占用进程并减轻其对共享资源的影响，提高整体系统性能和可靠性。
+- 📅 日期：2024-09-13
+- 🔗 链接：<https://www.chrisfarris.com/post/sect2024/>
+- 💬 简介：Chris Farris在2024年Sec-T会议上的演讲总结，主题是公共云服务的安全问题。当前IT行业在使用公共云服务时存在根本性的不安全问题。作者通过多个案例分析，强调了云服务提供商和用户在云安全方面的责任和挑战。
 
 62. Noisy Neighbor Detection with eBPF——基于eBPF的噪声邻居检测（重新写简介）
 
