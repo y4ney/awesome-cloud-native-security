@@ -14,13 +14,13 @@
 - 🔗 链接：<https://www.chrisfarris.com/post/sect2024/>
 - 💬 简介：Chris Farris在2024年Sec-T会议上的演讲总结，主题是公共云服务的安全问题。当前IT行业在使用公共云服务时存在根本性的不安全问题。作者通过多个案例分析，强调了云服务提供商和用户在云安全方面的责任和挑战。
 
-61. Kubernetes CRD generation pitfalls（需要重新写简介）
+61. Kubernetes CRD generation pitfalls
 - 🔗 链接：<https://ahmet.im/blog/crd-generation-pitfalls/>
-- 💬 简介：一篇关于陷阱的博客，学习了多年来使用 "controller-gen" 生成Kubernetes自定义资源，以及如何使用它进行更严格的验证和默认。
+- 💬 简介：这篇文章讨论了使用 controller-gen 生成 Kubernetes 自定义资源定义（CRD）时常见的陷阱和注意事项。文章建议开发者严格验证字段，确保标记字段为必需或可选，避免错误的零值处理，解决嵌套字段的默认值和验证问题。它还指出，某些注释标记不会被自动验证，导致潜在问题。文章建议使用更好的静态分析工具来检测这些问题，并呼吁开发者贡献改进。
 
-60. Noisy Neighbor Detection with eBPF——基于eBPF的噪声邻居检测（重新写简介）
+60. Noisy Neighbor Detection with eBPF——基于eBPF的噪声邻居检测
 - 🔗 链接：<https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd>
-- 💬 简介：本文讨论Netflix使用eBPF来检测云环境中的噪声邻居。解释了他们定制的解决方案，用于识别CPU占用进程并减轻其对共享资源的影响，提高整体系统性能和可靠性。
+- 💬 简介：这篇文章讨论了 Netflix 使用 eBPF来检测云环境中的 "Noisy Neighbor"(噪声邻居)问题。这种问题发生在共享资源的多租户环境中，当某个租户占用过多资源时，可能会影响到其他租户的性能。eBPF 通过高效、低开销地监控系统行为和网络流量，帮助 Netflix 识别并缓解这种资源争夺现象，从而提高系统性能和稳定性。
 
 ## 2024-08
 
