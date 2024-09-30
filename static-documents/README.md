@@ -6,6 +6,17 @@
 
 ## 2024-09
 
+65. xx
+- 📅 日期：2024-09-18
+- 🔗 链接：<https://github.com/w1th4d/JarPlant>
+- 简介：
+  
+64. Vulnerabilities in Open Source C2 Frameworks(开源C2框架中的漏洞)
+
+- 📅 日期：2024-09-18
+- 🔗 链接：<https://blog.includesecurity.com/2024/09/vulnerabilities-in-open-source-c2-frameworks/>
+- 简介：这篇文章探讨了开源C2框架中的安全漏洞。分析了这些框架在恶意攻击活动中的使用，以及其设计和实现中的漏洞可能导致的安全风险。文章通过研究不同C2框架的安全缺陷，提醒安全研究人员和开发者关注这些工具中的潜在问题，强调修复和改善这些框架的重要性，以减少攻击面和提升整体安全性。包括Sliver、Havoc、Ninja等开源C2框架的安全漏洞。
+
 63. The Cloud is Darker and More Full of Terrors
 
 - 📅 日期：2024-09-13
