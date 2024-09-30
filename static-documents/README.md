@@ -6,10 +6,10 @@
 
 ## 2024-09
 
-68. 还要修改
-- 📅 日期：2024-09-23
-- 🔗 链接：<https://www.tenable.com/blog/cloudimposer-executing-code-on-millions-of-google-servers-with-a-single-malicious-package?utm_source=tldrsec.com&utm_medium=referral&utm_campaign=tl-dr-sec-249-atomic-cloud-iocs-russian-apt-tool-matrix-netflix-paved-road-webinar>
-- 💬 简介：这种行为在很久以前就在tl;dr sec中被调用了，但是PSA：安装带有-的软件包𝘱𝘪𝘱𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘦𝘹𝘵𝘳𝘢𝘪𝘯𝘥𝘦𝘹会𝘶𝘳𝘭优先考虑公共注册表，如果攻击者将相同的软件包名称注册为内部软件包，则会导致潜在的依赖关系混淆漏洞。Tenable的Liv Matan发现了这个问题，因为Google为Google Cloud Composer预安装了一个内部软件依赖。
+68. CloudImposer: Executing Code on Millions of Google Servers with a Single Malicious Package
+- 📅 日期：2024-09-16
+- 🔗 链接：<https://www.tenable.com/blog/cloudimposer-executing-code-on-millions-of-google-servers-with-a-single-malicious-package>
+- 💬 简介：文章介绍了名为“CloudImposer”的恶意软件，它能够通过单个恶意包在数百万个谷歌服务器上执行代码。研究表明，该恶意软件利用了云计算环境中的安全漏洞，攻击者可以轻易部署并控制大规模的计算资源。文章强调了云安全的重要性，以及企业需要采取措施以防止类似攻击的发生。
 
 67. Threat Actors leverage Docker Swarm and Kubernetes to mine cryptocurrency at scale
 
