@@ -6,6 +6,12 @@
 
 ## 2024-09
 
+66. Tracking cloud-fluent threat actors - Part one: Atomic cloud IOCs
+
+- 📅 日期：2024-09-23
+- 🔗 链接：<https://www.wiz.io/blog/mastering-cloud-specific-indicators-of-compromise-iocs>
+- 💬 简介：来自Wiz博客的文章，讨论了如何掌握应用云环境中的特定入侵指标（IOCs），以提升威胁检测能力。云计算环境与传统IT环境有显著不同，因此需要不同的工具和方法来识别和应对攻击。文章还介绍了几种常见的云特定入侵指标，帮助安全团队及时发现潜在威胁并采取防御措施。作者Merav Bar和Amitai Cohen的"Tracking cloud-fluent threat actors"新博客系列将涵盖跟踪和防御恶意活动和威胁的策略，同时他们在[wiz-research-iocs](https://github.com/wiz-sec-public/wiz-research-iocs)这个Github仓库中维护公开的云环境IOCs。
+
 65. The Russian APT Tool Matrix（俄罗斯APT使用的工具矩阵）
 
 - 📅 日期：2024-09-22
