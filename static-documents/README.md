@@ -6,10 +6,11 @@
 
 ## 2024-09
 
-65. xx
-- 📅 日期：2024-09-18
-- 🔗 链接：<https://github.com/w1th4d/JarPlant>
-- 简介：
+65. The Russian APT Tool Matrix（俄罗斯APT使用的工具矩阵）
+
+- 📅 日期：2024-09-22
+- 🔗 链接：<https://blog.bushidotoken.net/2024/09/the-russian-apt-tool-matrix.html>
+- 💬 简介：这篇文章讨论了俄罗斯高级持续性威胁（APT）组织使用的工具矩阵。文章分析了这些APT组常用的恶意软件和攻击工具，并提供了关于其技术和战术的详细信息。
   
 64. Vulnerabilities in Open Source C2 Frameworks(开源C2框架中的漏洞)
 
