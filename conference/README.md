@@ -32,4 +32,4 @@
 - ⏲️ 会议议程：fwd:cloudsec Europe欧洲场会议议程：<https://fwdcloudsec.org/conference/europe/schedule.html>
 - 🔗 fwd:cloudsec North America北美会议视频记录：[youtube watch——fwd:cloudsec North America](https://www.youtube.com/watch?v=WY9VqDC5fTY&list=PLCPCP1pNWD7PoUaDtU_T9XJSJ6d7cSfjl&index=4)
 - 💬 DataDog总结的fwd:cloudsec Europe欧洲场的会议摘要：<https://securitylabs.datadoghq.com/articles/highlights-from-fwdcloudsec-europe-2024>
-- 🔗 fwd:cloudsec Europe欧洲会议视频记录：<https://www.youtube.com/live/oD-d9B71yLo?si=KfcXTkaE_EnJ7sax>
+- 🔗 fwd:cloudsec Europe欧洲会议视频记录：<https://www.youtube.com/watch?v=oD-d9B71yLo>
