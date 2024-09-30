@@ -1,5 +1,9 @@
 # 开源工具
 
+30. w1th4d/JarPlant
+- 🔗 链接：https://github.com/w1th4d/JarPlant
+- 💬 简介：JarPlant是一个用于Java程序的存档注入工具包（Java Archive Implant Toolkit）。它通过在JAR文件中植入恶意代码，允许用户在目标系统上执行命令或控制程序流。该工具的设计意图是帮助安全研究人员测试和演示安全漏洞，尤其是与Java相关的漏洞。
+
 29. 1Password SDKs
 - 🔗 链接：https://github.com/1Password/onepassword-sdk-python
 - 💬 简介：1Password SDK 是一套软件开发工具包，它允许开发者构建能够以编程方式访问存储在1Password中的Secrets信息（如密码、API密钥等）的集成。支持的语言有Go、JavaScript、Python。
