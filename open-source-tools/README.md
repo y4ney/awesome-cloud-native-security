@@ -1,5 +1,13 @@
 # 开源工具
 
+31. wiz-research-iocs：
+- 🔗 链接：https://github.com/wiz-sec-public/wiz-research-iocs
+- 💬 简介：来自Wiz的Merav Bar和Amitai Cohen将在这个Github仓库中维护公开的云环境IOCs(特定入侵指标)，同时可以关注他们"Tracking cloud-fluent threat actors"新博客系列，将涵盖针对云环境的持续追踪以及防御恶意活动威胁的策略。
+
+30. w1th4d/JarPlant
+- 🔗 链接：https://github.com/w1th4d/JarPlant
+- 💬 简介：JarPlant是一个用于Java程序的存档注入工具包（Java Archive Implant Toolkit）。它通过在JAR文件中植入恶意代码，允许用户在目标系统上执行命令或控制程序流。该工具的设计意图是帮助安全研究人员测试和演示安全漏洞，尤其是与Java相关的漏洞。
+
 29. 1Password SDKs
 - 🔗 链接：https://github.com/1Password/onepassword-sdk-python
 - 💬 简介：1Password SDK 是一套软件开发工具包，它允许开发者构建能够以编程方式访问存储在1Password中的Secrets信息（如密码、API密钥等）的集成。支持的语言有Go、JavaScript、Python。

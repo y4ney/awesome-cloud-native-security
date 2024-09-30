@@ -6,6 +6,35 @@
 
 ## 2024-09
 
+68. CloudImposer: Executing Code on Millions of Google Servers with a Single Malicious Package
+- 📅 日期：2024-09-16
+- 🔗 链接：<https://www.tenable.com/blog/cloudimposer-executing-code-on-millions-of-google-servers-with-a-single-malicious-package>
+- 💬 简介：文章介绍了名为“CloudImposer”的恶意软件，它能够通过单个恶意包在数百万个谷歌服务器上执行代码。研究表明，该恶意软件利用了云计算环境中的安全漏洞，攻击者可以轻易部署并控制大规模的计算资源。文章强调了云安全的重要性，以及企业需要采取措施以防止类似攻击的发生。
+
+67. Threat Actors leverage Docker Swarm and Kubernetes to mine cryptocurrency at scale
+
+- 📅 日期：2024-09-23
+- 🔗 链接：<https://securitylabs.datadoghq.com/articles/threat-actors-leveraging-docker-swarm-kubernetes-mine-cryptocurrency/>
+- 💬 简介：来自DataDog的文章探讨了威胁行为者如何利用Docker Swarm和Kubernetes等容器编排工具，大规模挖掘加密货币。攻击者通过滥用这些容器平台的计算资源，创建僵尸网络进行加密货币挖矿，并介绍了这些攻击的技术细节，以及如何识别和防御此类威胁。
+
+66. Tracking cloud-fluent threat actors - Part one: Atomic cloud IOCs
+
+- 📅 日期：2024-09-23
+- 🔗 链接：<https://www.wiz.io/blog/mastering-cloud-specific-indicators-of-compromise-iocs>
+- 💬 简介：来自Wiz博客的文章，讨论了如何掌握应用云环境中的特定入侵指标（IOCs），以提升威胁检测能力。云计算环境与传统IT环境有显著不同，因此需要不同的工具和方法来识别和应对攻击。文章还介绍了几种常见的云特定入侵指标，帮助安全团队及时发现潜在威胁并采取防御措施。作者Merav Bar和Amitai Cohen的"Tracking cloud-fluent threat actors"新博客系列将涵盖跟踪和防御恶意活动和威胁的策略，同时他们在[wiz-research-iocs](https://github.com/wiz-sec-public/wiz-research-iocs)这个Github仓库中维护公开的云环境IOCs。
+
+65. The Russian APT Tool Matrix（俄罗斯APT使用的工具矩阵）
+
+- 📅 日期：2024-09-22
+- 🔗 链接：<https://blog.bushidotoken.net/2024/09/the-russian-apt-tool-matrix.html>
+- 💬 简介：这篇文章讨论了俄罗斯高级持续性威胁（APT）组织使用的工具矩阵。文章分析了这些APT组常用的恶意软件和攻击工具，并提供了关于其技术和战术的详细信息。
+  
+64. Vulnerabilities in Open Source C2 Frameworks(开源C2框架中的漏洞)
+
+- 📅 日期：2024-09-18
+- 🔗 链接：<https://blog.includesecurity.com/2024/09/vulnerabilities-in-open-source-c2-frameworks/>
+- 简介：这篇文章探讨了开源C2框架中的安全漏洞。分析了这些框架在恶意攻击活动中的使用，以及其设计和实现中的漏洞可能导致的安全风险。文章通过研究不同C2框架的安全缺陷，提醒安全研究人员和开发者关注这些工具中的潜在问题，强调修复和改善这些框架的重要性，以减少攻击面和提升整体安全性。包括Sliver、Havoc、Ninja等开源C2框架的安全漏洞。
+
 63. The Cloud is Darker and More Full of Terrors
 
 - 📅 日期：2024-09-13

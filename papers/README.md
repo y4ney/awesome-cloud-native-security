@@ -2,6 +2,11 @@
 
 ## 2024-09
 
+34. DevOps Security Best Practices(DevOps安全最佳实践报告)
+- 📑 文件：[DevOps Security Best Practices [Cheat Sheet]](./2024-09/wiz-080124-devops-security-best-practices.pdf)
+- 🔗 链接：<https://www.wiz.io/lp/devops-security-best-practices-cheat-sheet>
+- 简介：来自Wiz总结的DevOps安全最佳实践报告，探讨了安全编码、基础设施安全以及警惕的监控和响应。结合了行业见解和实际经验，每个部分将理论知识与应用实践相结合，提供了切实可行的建议。
+
 33. Standardizing Privileged Access Architecture for Multi-Cloud（标准化多云访问架构）
 - 📅 日期：2024-09-12
 - 📑 文件：[Standardizing Privileged Access Architecture for Multi-Cloud](./2024-09/standardizing-privileged-access-architecture-for-multi-cloud.pdf)

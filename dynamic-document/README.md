@@ -4,6 +4,10 @@
 >
 > **内容持续更新或会根据最新信息进行修改的文档**。这种文档随着时间变化，内容可能会被不断地添加、修改或删除。
 
+21. eBPF Tutorial by Example(eBPF 开发者教程与知识库)
+- 🔗 链接：<https://github.com/eunomia-bpf/bpf-developer-tutorial>
+- 💬 简介：这是一个基于CO-RE（一次编译，到处运行）的eBPF的开发教程，提供了从入门到进阶的 eBPF 开发实践，包括基本概念、代码实例、实际应用等内容。
+
 20. saransh-rana：关于AWS云安全的研究博客
 - 🔗 链接：<https://saransh-rana.gitbook.io/aboutme>
 - 💬 简介：saransh-rana是Cred的云安全研究院，他的博客不定期更新关于AWS安全的一些攻击检测内容。
