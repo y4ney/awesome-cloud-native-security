@@ -6,6 +6,17 @@
 
 ## 2024-09
 
+68. 还要修改
+- 📅 日期：2024-09-23
+- 🔗 链接：<https://www.tenable.com/blog/cloudimposer-executing-code-on-millions-of-google-servers-with-a-single-malicious-package?utm_source=tldrsec.com&utm_medium=referral&utm_campaign=tl-dr-sec-249-atomic-cloud-iocs-russian-apt-tool-matrix-netflix-paved-road-webinar>
+- 💬 简介：这种行为在很久以前就在tl;dr sec中被调用了，但是PSA：安装带有-的软件包𝘱𝘪𝘱𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘦𝘹𝘵𝘳𝘢𝘪𝘯𝘥𝘦𝘹会𝘶𝘳𝘭优先考虑公共注册表，如果攻击者将相同的软件包名称注册为内部软件包，则会导致潜在的依赖关系混淆漏洞。Tenable的Liv Matan发现了这个问题，因为Google为Google Cloud Composer预安装了一个内部软件依赖。
+
+67. Threat Actors leverage Docker Swarm and Kubernetes to mine cryptocurrency at scale
+
+- 📅 日期：2024-09-23
+- 🔗 链接：<https://securitylabs.datadoghq.com/articles/threat-actors-leveraging-docker-swarm-kubernetes-mine-cryptocurrency/>
+- 💬 简介：来自DataDog的文章探讨了威胁行为者如何利用Docker Swarm和Kubernetes等容器编排工具，大规模挖掘加密货币。攻击者通过滥用这些容器平台的计算资源，创建僵尸网络进行加密货币挖矿，并介绍了这些攻击的技术细节，以及如何识别和防御此类威胁。
+
 66. Tracking cloud-fluent threat actors - Part one: Atomic cloud IOCs
 
 - 📅 日期：2024-09-23
