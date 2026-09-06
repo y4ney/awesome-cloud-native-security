@@ -161,6 +161,11 @@
     - 🔗 链接：<https://github.com/project-copacetic/copacetic>
     - 💬 简介：Copacetic（简称：copa）是微软工程师 Sertaç Özercan 使用 Go 开发的 CLI 工具，它基于 buildkit 的镜像构建能力和 Trivy 的漏洞扫描结果，可以自动修复容器镜像中的漏洞。
 
+1. Darkmoon：开源自主渗透测试平台
+
+    - 🔗 链接：<https://github.com/ASCIT31/Dark-Moon>
+    - 💬 简介：Darkmoon 是基于 GPLv3 的开源自主渗透测试平台，50 个专业智能体通过 MCP 协调 50 多种攻击工具，覆盖 Web、API、Active Directory、Kubernetes 和云环境，并为每个发现提供可复现的利用证据；支持自托管。
+
 1. Trivy：容器镜像安全扫描器
 
     - 🔗 链接：<https://github.com/aquasecurity/trivy>
